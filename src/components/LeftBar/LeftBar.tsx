@@ -40,7 +40,10 @@ const useStyles = makeStyles((theme: Theme) =>
         },
         mainToolBar: {
             ...theme.mixins.toolbar,
-            backgroundColor: '#ff2f5a'
+            backgroundColor: '#ff2f5a',
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
         },
         drawerPaper: {
             width: drawerWidth,
