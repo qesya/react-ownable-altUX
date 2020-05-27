@@ -1,0 +1,4781 @@
+{
+  "editionMap": {
+    "websiteId": 222,
+    "websiteName": "Ideal Home Jun 2019",
+    "pages": [
+      {
+        "articleId": 5866,
+        "articleName": "Page 5",
+        "pageNumber": 5,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852189845bf4001c5699fd.png",
+        "products": [
+          {
+            "id": 18831,
+            "productTypeId": 49,
+            "productTypeName": "Cup",
+            "brand": "Rose & Grey",
+            "name": "Wicker and Glass Cup",
+            "price": 7.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5ad077ae649001fcd36c5.png"
+          },
+          {
+            "id": 18832,
+            "productTypeId": 65,
+            "productTypeName": "Planter",
+            "brand": "Rose & Grey",
+            "name": "Natural Ceramic Planter",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5add67ae649001fcd4346.png"
+          },
+          {
+            "id": 18834,
+            "productTypeId": 0,
+            "brand": "Nordic House",
+            "name": "Oak String Tidy with Scissors",
+            "price": 13.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5b01b7ae649001fcd5547.jpg"
+          },
+          {
+            "id": 18838,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "brand": "Kalinko",
+            "name": "Inya Rattan Bowl",
+            "price": 48.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5b272b002eb001eb871af.jpg"
+          },
+          {
+            "id": 18839,
+            "productTypeId": 0,
+            "brand": "Forest & Co",
+            "name": "Green Crackle Glazed Ceramic Pot",
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5b3077ae649001fcd6a42.jpg"
+          },
+          {
+            "id": 18840,
+            "productTypeId": 0,
+            "brand": "Wyld Home",
+            "name": "Cream Grass Spray",
+            "price": 13.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5b40b7ae649001fcd75c0.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5891,
+        "articleName": "Page 9",
+        "pageNumber": 9,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569d22.png",
+        "products": [
+          {
+            "id": 18591,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "H&M Home",
+            "name": "Tall Ceramic Vase",
+            "price": 17.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf2e29ce39cf001ed11b7d.jpg"
+          },
+          {
+            "id": 18592,
+            "productTypeId": 62,
+            "productTypeName": "Tray",
+            "brand": "H & M Home",
+            "name": "Metal Tray with Handles",
+            "price": 17.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2f47a7ae649001fb77c05.jpg"
+          },
+          {
+            "id": 18593,
+            "productTypeId": 0,
+            "brand": "H & M Home",
+            "name": "Patterned Cloth Runner",
+            "price": 8.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2f5b47ae649001fb78665.jpg"
+          },
+          {
+            "id": 18594,
+            "productTypeId": 52,
+            "productTypeName": "Plate",
+            "brand": "H&M Home",
+            "name": "Porcelain Plate with motif",
+            "price": 3.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2f6a07ae649001fb78f47.jpg"
+          },
+          {
+            "id": 18595,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "brand": "H&M Home",
+            "name": "Porcelain Bowl",
+            "price": 6.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2f71e7ae649001fb79497.jpg"
+          },
+          {
+            "id": 18596,
+            "productTypeId": 48,
+            "productTypeName": "Mug",
+            "brand": "H&M Home",
+            "name": "Porcelain Mug",
+            "price": 6.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2f7f7b002eb001ea23c52.jpg"
+          },
+          {
+            "id": 18597,
+            "productTypeId": 57,
+            "productTypeName": "Candle",
+            "brand": "H&M Home",
+            "name": "Scented Candle in Holder",
+            "price": 8.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2f9137ae649001fb79f2f.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5855,
+        "articleName": "Page 10",
+        "pageNumber": 10,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699f2.png",
+        "products": [
+          {
+            "id": 18598,
+            "productTypeId": 0,
+            "brand": "Dobbies Garden Centres",
+            "name": "Succulents in Black Frame",
+            "price": 22.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2fa837ae649001fb7aef1.jpg"
+          },
+          {
+            "id": 18599,
+            "productTypeId": 0,
+            "brand": "La Redoute",
+            "name": "Retza Terrazzo Trivet",
+            "price": 24.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2fb997ae649001fb7b422.jpg"
+          },
+          {
+            "id": 18600,
+            "productTypeId": 0,
+            "brand": "Furniture Village",
+            "name": "Palm Headboard",
+            "price": 935.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2fdccb002eb001ea264ec.jpg"
+          },
+          {
+            "id": 18601,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "name": "Wool Mattress",
+            "price": 849.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb2ffc1b002eb001ea271a5.png"
+          },
+          {
+            "id": 18602,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Broste Copenhagen",
+            "name": "Green Ceramic Urn Style Vase",
+            "price": 39.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb30696b002eb001ea2a61f.jpg"
+          },
+          {
+            "id": 18603,
+            "productTypeId": 57,
+            "productTypeName": "Candle",
+            "brand": "French Connection",
+            "name": "Terazzo Candle - 2 Wick",
+            "price": 22.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf33bace39cf001ed14169.jpg"
+          },
+          {
+            "id": 18604,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "Rockett St George",
+            "name": "Prentice Faux Leather Dining Chair",
+            "price": 215.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf3147ce39cf001ed12fbc.jpg"
+          },
+          {
+            "id": 18605,
+            "productTypeId": 0,
+            "name": "c.1877 Phases of The Moon - Giclee Print",
+            "price": 27.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf2f67ce39cf001ed1242b.jpg"
+          },
+          {
+            "id": 18606,
+            "productTypeId": 0,
+            "brand": "Debenhams",
+            "name": "Samara Light Shade",
+            "price": 70.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31029b002eb001ea2f4a8.jpg"
+          },
+          {
+            "id": 18607,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "brand": "Grand Illusions",
+            "name": "Round Bowl - Green Garden",
+            "price": 18.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb311677ae649001fb85c08.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5842,
+        "articleName": "Page 11",
+        "pageNumber": 11,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699e5.png",
+        "products": [
+          {
+            "id": 18608,
+            "productTypeId": 0,
+            "brand": "Marks & Spencer",
+            "name": "Sanford Parquet 2 Drawer Console Table",
+            "price": 349.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb313407ae649001fb863f6.png"
+          },
+          {
+            "id": 18609,
+            "productTypeId": 65,
+            "productTypeName": "Planter",
+            "brand": "Marks & Spencer",
+            "name": "Gold Finish Metal Planter with Legs",
+            "price": 12.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31422b002eb001ea316c0.jpg"
+          },
+          {
+            "id": 18611,
+            "productTypeId": 0,
+            "brand": "Marks & Spencer",
+            "name": "Pyramid Hurricane",
+            "price": 20.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf362f351c7a001ed89da6.jpg"
+          },
+          {
+            "id": 18612,
+            "productTypeId": 57,
+            "productTypeName": "Candle",
+            "brand": "Marks & Spencer",
+            "name": "Three Point Candle Holder",
+            "price": 14.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf3925351c7a001ed8b621.jpg"
+          },
+          {
+            "id": 18613,
+            "productTypeId": 0,
+            "brand": "Fat Face",
+            "name": "Sai Cushion",
+            "price": 30.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31639b002eb001ea32b02.jpg"
+          },
+          {
+            "id": 18614,
+            "productTypeId": 0,
+            "brand": "La Redoute",
+            "name": "Kilmia Chopping Board",
+            "price": 22.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb317a5b002eb001ea332a6.jpg"
+          },
+          {
+            "id": 18615,
+            "productTypeId": 0,
+            "brand": "Debenhams",
+            "name": "Black Tealight Candelabra",
+            "price": 25.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb3188fb002eb001ea33b64.jpg"
+          },
+          {
+            "id": 18616,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "French Connection",
+            "name": "Sigma Jute Rug",
+            "price": 180.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf3fb1351c7a001ed8ec01.jpg"
+          },
+          {
+            "id": 18617,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Grand Illusions",
+            "name": "Tall Ribbed Vase Brassica",
+            "price": 22.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31a177ae649001fb899f7.jpg"
+          },
+          {
+            "id": 18618,
+            "productTypeId": 0,
+            "brand": "Oggetto",
+            "name": "Drinks Trolley - Gun Metal Finish",
+            "price": 325.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31ab27ae649001fb89e86.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5853,
+        "articleName": "Page 12",
+        "pageNumber": 12,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699f0.png",
+        "products": [
+          {
+            "id": 18619,
+            "productTypeId": 39,
+            "productTypeName": "Table lamp",
+            "brand": "Graham & Green",
+            "name": "Deep Navy Bobble Table Lamp",
+            "price": 135.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31bd17ae649001fb8a714.jpg"
+          },
+          {
+            "id": 18620,
+            "productTypeId": 0,
+            "brand": "Audenza",
+            "name": "Gold Bobble Frame",
+            "price": 25.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31cd27ae649001fb8ae82.jpg"
+          },
+          {
+            "id": 18621,
+            "productTypeId": 82,
+            "productTypeName": "Plant",
+            "brand": "H&M Home",
+            "name": "Bubbled Plant Pot",
+            "price": 17.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31de4b002eb001ea3654a.jpg"
+          },
+          {
+            "id": 18622,
+            "productTypeId": 0,
+            "brand": "Wayfair",
+            "name": "Randy Tiki Bar",
+            "price": 449.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb31f01b002eb001ea36b74.jpg"
+          },
+          {
+            "id": 18623,
+            "productTypeId": 0,
+            "brand": "George Home",
+            "name": "Garden Tiki Bar 3 Piece Set",
+            "price": 249.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb32037b002eb001ea3708a.jpg"
+          },
+          {
+            "id": 18624,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "Swoon",
+            "name": "Upton Dining Chairs",
+            "price": 139.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb322beb002eb001ea382df.jpg"
+          },
+          {
+            "id": 18626,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "Swoon",
+            "name": "Clissold 6 seater Dining Table",
+            "price": 499.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb32455b002eb001ea38b40.jpg"
+          },
+          {
+            "id": 18627,
+            "productTypeId": 78,
+            "productTypeName": "Bench",
+            "brand": "Swoon",
+            "name": "Upton Bench",
+            "price": 139.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb325b0b002eb001ea3944d.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5840,
+        "articleName": "Page 13",
+        "pageNumber": 13,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699e3.png",
+        "products": [
+          {
+            "id": 18628,
+            "productTypeId": 0,
+            "brand": "Homebase",
+            "name": "Malindi Longe Chair & Footrest",
+            "price": 225.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb3267a7ae649001fb8f181.jpg"
+          },
+          {
+            "id": 18629,
+            "productTypeId": 40,
+            "productTypeName": "Floor lamp",
+            "brand": "Houseof",
+            "name": "Curve Floor Lamp Charcoal",
+            "price": 160.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb328e57ae649001fb91179.jpg"
+          },
+          {
+            "id": 18630,
+            "productTypeId": 42,
+            "productTypeName": "Ceiling light",
+            "brand": "Houseof",
+            "name": "Ring Ceiling Light",
+            "price": 80.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb32a58b002eb001ea3c8c4.jpg"
+          },
+          {
+            "id": 18632,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Houseof",
+            "name": "Concrete Ribbed Table Lamp",
+            "price": 40.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb32d02b002eb001ea3d7cf.jpg"
+          },
+          {
+            "id": 18633,
+            "productTypeId": 40,
+            "productTypeName": "Floor lamp",
+            "brand": "Houseof",
+            "name": "Curve Floor Lamp Green",
+            "price": 160.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb32e50b002eb001ea3e05b.jpg"
+          },
+          {
+            "id": 18634,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Made.com",
+            "name": "Tesselate Set of 3 Cotton Rugs",
+            "price": 89.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb32f987ae649001fb93fa4.jpg"
+          },
+          {
+            "id": 18635,
+            "productTypeId": 7,
+            "productTypeName": "Coffee table",
+            "brand": "Made.com",
+            "name": "Benn Coffee Table",
+            "price": 99.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb330767ae649001fb945fc.jpg"
+          },
+          {
+            "id": 18636,
+            "productTypeId": 0,
+            "brand": "Made.com",
+            "name": "Yumi",
+            "price": 279.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb331707ae649001fb94cbf.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5868,
+        "articleName": "Page 15",
+        "pageNumber": 15,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c5699ff.png",
+        "products": [
+          {
+            "id": 18637,
+            "productTypeId": 0,
+            "brand": "Oak Furniture Land",
+            "name": "Kyoto Lamp",
+            "price": 199.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb332347ae649001fb95196.jpg"
+          },
+          {
+            "id": 18638,
+            "productTypeId": 0,
+            "brand": "Oliver Bonas",
+            "name": "Nomu Orange Decanter",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf4817ce39cf001ed1fa8c.jpg"
+          },
+          {
+            "id": 18639,
+            "productTypeId": 0,
+            "brand": "LSA International",
+            "name": "Pleat Storm Lantern",
+            "price": 65.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb333d4b002eb001ea41131.jpg"
+          },
+          {
+            "id": 18640,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Habitat",
+            "name": "Plum Etched Glass Vase",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf4967351c7a001ed94b8b.jpg"
+          },
+          {
+            "id": 18641,
+            "productTypeId": 46,
+            "productTypeName": "Jug",
+            "brand": "Hay",
+            "name": "Jochen Holz Glass Jug - Amber - Small",
+            "price": 29.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb335687ae649001fb96e5e.jpg"
+          },
+          {
+            "id": 18642,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Oliver Bonas",
+            "name": "Kupla Round Blue Vase",
+            "price": 32.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb336267ae649001fb97538.jpg"
+          },
+          {
+            "id": 18643,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Dunelm",
+            "name": "Deco Charm Peacock Glass Vase",
+            "price": 24.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb336e97ae649001fb97f6d.jpg"
+          },
+          {
+            "id": 18644,
+            "productTypeId": 51,
+            "productTypeName": "Glass",
+            "brand": "Nude Glass",
+            "name": "Opal Pink Glass Sweet Storage",
+            "price": 49.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb337f4b002eb001ea43a01.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5835,
+        "articleName": "Page 16",
+        "pageNumber": 16,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852186845bf4001c5699de.png",
+        "products": [
+          {
+            "id": 18930,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Ideal Home",
+            "name": "Foster Metal Bed Frame",
+            "price": 329.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6f7c3b002eb001ec2bc1a.jpg"
+          },
+          {
+            "id": 18931,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Ideal Home",
+            "name": "Telford 1 Drawer Bedside Chest",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6fd257ae649001fd82911.jpg"
+          },
+          {
+            "id": 18932,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Ideal Home",
+            "name": "Calandre Fringed Rug",
+            "price": 99.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6ff62b002eb001ec30d4b.jpg"
+          },
+          {
+            "id": 18933,
+            "productTypeId": 0,
+            "brand": "Ideal Home",
+            "name": "Luna Wall Lamp",
+            "price": 34.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7000c7ae649001fd8415a.jpg"
+          },
+          {
+            "id": 18934,
+            "productTypeId": 0,
+            "brand": "Very",
+            "name": "Textured Diamond 200 Thread Count 100% Cotton Duvet Cover Set",
+            "price": 44.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb700dbb002eb001ec31546.jpg"
+          },
+          {
+            "id": 18935,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Ideal Home",
+            "name": "Luxury Quilted Bedspread Throw - In Oyster",
+            "price": 39.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb70186b002eb001ec317d4.jpg"
+          },
+          {
+            "id": 18936,
+            "productTypeId": 0,
+            "brand": "Ideal Home",
+            "name": "Aztec Tassel Cushion",
+            "price": 17.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7038cb002eb001ec321d2.jpg"
+          },
+          {
+            "id": 18937,
+            "productTypeId": 0,
+            "brand": "Very",
+            "name": "Nomad Tassle Bolster Cushion",
+            "price": 15.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccad71ddd5763001e1c9db8.jpg"
+          },
+          {
+            "id": 18938,
+            "productTypeId": 0,
+            "brand": "Ideal Home",
+            "name": "Mayan Cushion",
+            "price": 19.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb704f37ae649001fd86628.jpg"
+          },
+          {
+            "id": 18939,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Ideal Home",
+            "name": "Set of 2 Cotton Rope Basket with Tassels",
+            "price": 34.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb705917ae649001fd87120.jpg"
+          },
+          {
+            "id": 18940,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Ideal Home",
+            "name": "Set Of 2 Tassled Belly Baskets",
+            "price": 34.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb706527ae649001fd8770f.jpg"
+          },
+          {
+            "id": 18941,
+            "productTypeId": 60,
+            "productTypeName": "Ornament",
+            "brand": "Ideal Home",
+            "name": "Bronze Elephant Ornament",
+            "price": 14.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb706e07ae649001fd87e2b.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5830,
+        "articleName": "Page 17",
+        "pageNumber": 17,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699d9.png",
+        "products": [
+          {
+            "id": 18944,
+            "productTypeId": 77,
+            "productTypeName": "Fabric",
+            "brand": "Very",
+            "name": "Fabric Echota Accent Chair",
+            "price": 279.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb71d4e7ae649001fd94196.jpg"
+          },
+          {
+            "id": 18946,
+            "productTypeId": 0,
+            "brand": "Very",
+            "name": "Genoa Cushion in Paprika",
+            "price": 16.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb71e3fb002eb001ec41a5b.jpg"
+          },
+          {
+            "id": 18948,
+            "productTypeId": 0,
+            "brand": "Very",
+            "name": "Nomad Tassel Bolster Cushion",
+            "price": 15.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccad61ddd5763001e1c9225.jpg"
+          },
+          {
+            "id": 18949,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Very",
+            "name": "Folk Geo Rug",
+            "price": 59.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb71f5b7ae649001fd95695.jpg"
+          },
+          {
+            "id": 18951,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "brand": "Arthouse",
+            "name": "Arthouse Black Decorative Shelf – 53 cm diameter",
+            "price": 21.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccafad192bf11001e0a0bfd.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5852,
+        "articleName": "Page 19",
+        "pageNumber": 19,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699ef.png",
+        "products": [
+          {
+            "id": 18645,
+            "productTypeId": 15,
+            "productTypeName": "Chest of drawers",
+            "brand": "Maisons du Monde",
+            "name": "Celeste Grey Chest of Drawers",
+            "price": 215.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb3420a7ae649001fb9d310.jpg"
+          },
+          {
+            "id": 18646,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "name": "Nursery/Bedroom Mountain Hook",
+            "price": 20.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb34382b002eb001ea49b43.jpg"
+          },
+          {
+            "id": 18647,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "Bloomingville",
+            "name": "Child Stool 2",
+            "price": 59.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb3448ab002eb001ea4a1ff.jpg"
+          },
+          {
+            "id": 18648,
+            "productTypeId": 0,
+            "name": "Rainbow Starfall A3 Print",
+            "price": 25.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf4b28351c7a001ed95890.jpg"
+          },
+          {
+            "id": 18649,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Nubie",
+            "name": "Laurette Single Bed",
+            "price": 720.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb3464f7ae649001fb9f3c9.jpg"
+          },
+          {
+            "id": 18650,
+            "productTypeId": 31,
+            "productTypeName": "Wallpaper",
+            "brand": "Hibou Home",
+            "name": "Stars Wallpaper",
+            "price": 59.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb3482db002eb001ea4bbfb.jpg"
+          },
+          {
+            "id": 18651,
+            "productTypeId": 0,
+            "brand": "H&M Home",
+            "name": "Metal and Wood Hook",
+            "price": 6.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb348b77ae649001fba103b.jpg"
+          },
+          {
+            "id": 18652,
+            "productTypeId": 15,
+            "productTypeName": "Chest of drawers",
+            "brand": "Argos",
+            "name": "Brooklyn Grey Chest of Drawers",
+            "price": 119.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb349a9b002eb001ea4c8cf.jpg"
+          },
+          {
+            "id": 18653,
+            "productTypeId": 0,
+            "brand": "Juniqe",
+            "name": "Happy Day by treechild",
+            "price": 6.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb34bfcb002eb001ea4dc15.jpg"
+          },
+          {
+            "id": 18654,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "Zara Home",
+            "name": "Wooden Stool",
+            "price": 19.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb354137ae649001fba6a10.jpg"
+          },
+          {
+            "id": 18655,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Made.com",
+            "name": "Roscoe Single Bed",
+            "price": 329.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb3552db002eb001ea51e71.jpg"
+          },
+          {
+            "id": 18656,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Olliella",
+            "name": "White Belly Basket",
+            "price": 29.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb3566fb002eb001ea52906.jpg"
+          },
+          {
+            "id": 18657,
+            "productTypeId": 31,
+            "productTypeName": "Wallpaper",
+            "brand": "Galerie",
+            "name": "Sharp Stars Wallpaper",
+            "price": 29.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb357b5b002eb001ea53961.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5886,
+        "articleName": "Page 21",
+        "pageNumber": 21,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569d1d.png",
+        "products": [
+          {
+            "id": 18954,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Loaf",
+            "name": "Large Cuddlemuffin Sofa in Magnesium Washed Cotton Linen",
+            "price": 3105.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccb0dcd92bf11001e0aab4d.jpg"
+          },
+          {
+            "id": 18833,
+            "productTypeId": 70,
+            "productTypeName": "Mirror",
+            "brand": "Zara Home",
+            "name": "MIRRORED NESTING TABLES",
+            "price": 119.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf8cb6351c7a001edb622a.jpg"
+          },
+          {
+            "id": 18959,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Zara Home",
+            "name": "Rug with border",
+            "price": 69.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccb0c1692bf11001e0aa091.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5861,
+        "articleName": "Page 23",
+        "pageNumber": 23,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852189845bf4001c5699f8.png",
+        "products": [
+          {
+            "id": 18961,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "Crescent Fifty One",
+            "name": "Live Edge Oak Dining Table",
+            "price": 1300.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf8d2b351c7a001edb6664.jpg"
+          },
+          {
+            "id": 18964,
+            "productTypeId": 0,
+            "brand": "Only Home",
+            "name": "Classic Danish Dark Brown Wishbone Style Y Chair with Natural Seat",
+            "price": 145.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb727317ae649001fd99a5d.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5887,
+        "articleName": "Page 25",
+        "pageNumber": 25,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569d1e.png",
+        "products": [
+          {
+            "id": 18968,
+            "productTypeId": 42,
+            "productTypeName": "Ceiling light",
+            "brand": "Vinterior",
+            "name": "Large Statement Tracey Dna Molecular Chandelier Ceiling Light Lamp",
+            "price": 940.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72a377ae649001fd9b5bc.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5867,
+        "articleName": "Page 26",
+        "pageNumber": 26,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c5699fe.png",
+        "products": [
+          {
+            "id": 18969,
+            "productTypeId": 52,
+            "productTypeName": "Plate",
+            "brand": "Nkuku",
+            "name": "Datia Slate Plate",
+            "price": 14.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccb00fcdd5763001e1e180b.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5872,
+        "articleName": "Page 27",
+        "pageNumber": 27,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c569b8e.png",
+        "products": [
+          {
+            "id": 18975,
+            "productTypeId": 73,
+            "productTypeName": "Bin",
+            "brand": "Ikea",
+            "name": "Metod Base Cabinet unit",
+            "price": 23.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72dd8b002eb001ec4a59b.png"
+          },
+          {
+            "id": 18978,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Ekestad Door Oak",
+            "price": 46.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72ea8b002eb001ec4adb4.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5829,
+        "articleName": "Page 28",
+        "pageNumber": 28,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699d8.png",
+        "products": [
+          {
+            "id": 18986,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Made.com",
+            "name": "Arles Square 70 x 70 cm Mirror, Matt Black",
+            "price": 129.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb732beb002eb001ec4c51f.png"
+          },
+          {
+            "id": 19273,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Delaktig headboard",
+            "price": 110.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf0348351c7a001ed712c1.png"
+          },
+          {
+            "id": 19274,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Sinnerlig pendant lamp",
+            "price": 40.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf0418351c7a001ed71ad8.png"
+          },
+          {
+            "id": 19275,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "Garden Trading",
+            "name": "St Mawes Stool",
+            "price": 54.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf0527351c7a001ed71fbb.jpg"
+          },
+          {
+            "id": 19276,
+            "productTypeId": 31,
+            "productTypeName": "Wallpaper",
+            "brand": "Scion",
+            "name": "Melinki Flight Wallpaper - In Powder Blue/Chalk/Indigo",
+            "price": 34.400000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf06a3351c7a001ed72531.jpg"
+          },
+          {
+            "id": 19434,
+            "productTypeId": 70,
+            "productTypeName": "Mirror",
+            "brand": "Bathroom Origins",
+            "name": "Metro Wall Mirror Light - Black",
+            "price": 59.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccb10c7dd5763001e1e929c.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5821,
+        "articleName": "Page 29",
+        "pageNumber": 29,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852184845bf4001c5699d0.png",
+        "products": [
+          {
+            "id": 19277,
+            "productTypeId": 121,
+            "productTypeName": "Honey",
+            "brand": "&",
+            "name": "5 x 5 Honeypot Poppy Apex Wooden Playhouse",
+            "price": 299.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf083ace39cf001ecff6e5.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5837,
+        "articleName": "Page 30",
+        "pageNumber": 30,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852186845bf4001c5699e0.png",
+        "products": [
+          {
+            "id": 18658,
+            "productTypeId": 41,
+            "productTypeName": "Wall light",
+            "name": "Club Double Wall Light",
+            "price": 225.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb35918b002eb001ea5460c.jpg"
+          },
+          {
+            "id": 18659,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Eichholzt",
+            "name": "Marquis Vase",
+            "price": 79.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb35eb77ae649001fbacd68.jpg"
+          },
+          {
+            "id": 18660,
+            "productTypeId": 0,
+            "brand": "House Doctor",
+            "name": "Curry Velvet Cushion",
+            "price": 55.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb362a7b002eb001ea5a43f.png"
+          },
+          {
+            "id": 18661,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "Lombok",
+            "name": "Baxter Sawn Teak Dining Table",
+            "price": 1275.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb417a07ae649001fc017aa.jpg"
+          },
+          {
+            "id": 18662,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "A by Amara",
+            "name": "Fusion Hand Woven Rug - Oyster",
+            "price": 265.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb419db7ae649001fc02b92.jpg"
+          },
+          {
+            "id": 18663,
+            "productTypeId": 0,
+            "name": "Hilda Black Solid Oak Chair",
+            "price": 215.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb41b59b002eb001eaaff8b.jpg"
+          },
+          {
+            "id": 18664,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Hay",
+            "name": "Mags Three Seater Modular Sofa Combination 3",
+            "price": 2869.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb41d09b002eb001eab0f4d.jpg"
+          },
+          {
+            "id": 18665,
+            "productTypeId": 41,
+            "productTypeName": "Wall light",
+            "brand": "Made.com",
+            "name": "Ogilvy Double Swing Arm Wall Light",
+            "price": 69.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb41df8b002eb001eab196e.jpg"
+          },
+          {
+            "id": 18666,
+            "productTypeId": 0,
+            "brand": "Matalan",
+            "name": "Large Velour Cushion",
+            "price": 12.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb41e95b002eb001eab1d9c.jpg"
+          },
+          {
+            "id": 18667,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Bloomingville",
+            "name": "Brown Glass Vase",
+            "price": 41.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb41f037ae649001fc0536d.jpg"
+          },
+          {
+            "id": 18668,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "Furniture Village",
+            "name": "Jagger Dining Table",
+            "price": 799.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb420677ae649001fc05d82.jpg"
+          },
+          {
+            "id": 18669,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Stockholm Chair",
+            "price": 120.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4214a7ae649001fc064f9.png"
+          },
+          {
+            "id": 18670,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Dunelm",
+            "name": "Natural Chunky Jute Rug",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb422837ae649001fc06d53.jpg"
+          },
+          {
+            "id": 18671,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "DFS",
+            "name": "Zania Corner Sofa",
+            "price": 1799.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb423e77ae649001fc074e9.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5846,
+        "articleName": "Page 34",
+        "pageNumber": 34,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699e9.png",
+        "products": [
+          {
+            "id": 18672,
+            "productTypeId": 94,
+            "productTypeName": "Pouffe",
+            "brand": "French Connection",
+            "name": "Blue Pandora Pouffe",
+            "price": 180.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb424f4b002eb001eab544c.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5844,
+        "articleName": "Page 35",
+        "pageNumber": 35,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699e7.png",
+        "products": [
+          {
+            "id": 18673,
+            "productTypeId": 78,
+            "productTypeName": "Bench",
+            "brand": "Argos",
+            "name": "Farmhouse Dining Benches",
+            "price": 127.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf4ff4351c7a001ed99aa1.jpg"
+          },
+          {
+            "id": 18674,
+            "productTypeId": 0,
+            "brand": "Argos",
+            "name": "Farmhouse Table",
+            "price": 199.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf50f9ce39cf001ed25515.jpg"
+          },
+          {
+            "id": 18675,
+            "productTypeId": 0,
+            "brand": "Argos",
+            "name": "Coastal Reed Shade",
+            "price": 12.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb427617ae649001fc09202.jpg"
+          },
+          {
+            "id": 18676,
+            "productTypeId": 27,
+            "productTypeName": "Throw",
+            "brand": "Argos",
+            "name": "Blue Check Throw",
+            "price": 16.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb427fcb002eb001eab709e.jpg"
+          },
+          {
+            "id": 18677,
+            "productTypeId": 51,
+            "productTypeName": "Glass",
+            "brand": "Argos",
+            "name": "Elegance Set of 4 Hi Ball Glasses",
+            "price": 8.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb428697ae649001fc09d8a.jpg"
+          },
+          {
+            "id": 18679,
+            "productTypeId": 48,
+            "productTypeName": "Mug",
+            "brand": "Denby",
+            "name": "Blue Haze Mug",
+            "price": 14.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb42e15b002eb001eaba96b.jpg"
+          },
+          {
+            "id": 18680,
+            "productTypeId": 27,
+            "productTypeName": "Throw",
+            "brand": "Very",
+            "name": "Kasbah Textured Throw",
+            "price": 39.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb42e837ae649001fc0d046.jpg"
+          },
+          {
+            "id": 18681,
+            "productTypeId": 0,
+            "brand": "Ferm Living",
+            "name": "Shell Pot",
+            "price": 79.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb42f737ae649001fc0d826.jpg"
+          },
+          {
+            "id": 18682,
+            "productTypeId": 12,
+            "productTypeName": "Sideboard",
+            "brand": "Habitat",
+            "name": "Feliz Sideboard",
+            "price": 995.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4304a7ae649001fc0dcf9.png"
+          },
+          {
+            "id": 18683,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Peronda",
+            "name": "Havana White Herald Matt Tiles",
+            "price": 49.490000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4318d7ae649001fc0e6cd.png"
+          },
+          {
+            "id": 18684,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "Ikea",
+            "name": "Tankvard Stool",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb432597ae649001fc0ef17.png"
+          },
+          {
+            "id": 18685,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Ikea",
+            "name": "Tankvard Basket - small",
+            "price": 9.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb432feb002eb001eabd605.png"
+          },
+          {
+            "id": 18686,
+            "productTypeId": 27,
+            "productTypeName": "Throw",
+            "brand": "Ikea",
+            "name": "Tankvard Throw",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb433bbb002eb001eabda30.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5856,
+        "articleName": "Page 36",
+        "pageNumber": 36,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699f3.png",
+        "products": [
+          {
+            "id": 18687,
+            "productTypeId": 80,
+            "productTypeName": "Dish",
+            "brand": "John Lewis & Partners",
+            "name": "Starfish Dish",
+            "price": 18.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb435167ae649001fc0ff1e.jpg"
+          },
+          {
+            "id": 18688,
+            "productTypeId": 52,
+            "productTypeName": "Plate",
+            "brand": "John Lewis & Partners",
+            "name": "Shore Salad Plate",
+            "price": 10.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb435a5b002eb001eabe7c9.jpg"
+          },
+          {
+            "id": 18689,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "brand": "John Lewis & Partners",
+            "name": "Harbour Pasta Bowls",
+            "price": 36.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4364ab002eb001eabeb35.jpg"
+          },
+          {
+            "id": 18690,
+            "productTypeId": 0,
+            "brand": "Next Home",
+            "name": "Zanzibar Chair by Charles Bentley",
+            "price": 130.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf5623ce39cf001ed287d2.jpg"
+          },
+          {
+            "id": 18691,
+            "productTypeId": 0,
+            "brand": "Next Home",
+            "name": "Nautical Lobster Tassel Cushion",
+            "price": 12.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb437b7b002eb001eabf91d.jpg"
+          },
+          {
+            "id": 18692,
+            "productTypeId": 0,
+            "brand": "Grand Illusions",
+            "name": "Cushion Pondicherry Indigo",
+            "price": 23.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb43832b002eb001eabfbea.jpg"
+          },
+          {
+            "id": 18693,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "Next Home",
+            "name": "Woven Vase",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf5533ce39cf001ed27e2a.jpg"
+          },
+          {
+            "id": 18695,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "French Connection",
+            "name": "Cane Glass Vase",
+            "price": 55.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf530d351c7a001ed9b5ed.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5831,
+        "articleName": "Page 37",
+        "pageNumber": 37,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699da.png",
+        "products": [
+          {
+            "id": 18696,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "John Lewis & Partners",
+            "name": "Croft Collection Burford Garden 6-Seat Dining Table",
+            "price": 499.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb43b0a7ae649001fc128cd.jpg"
+          },
+          {
+            "id": 18697,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "John Lewis & Partners",
+            "name": "Croft Collection Burford Garden Dining Table Bench",
+            "price": 220.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb44c087ae649001fc1c60e.jpg"
+          },
+          {
+            "id": 18698,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "John Lewis & Partners",
+            "name": "Burford Woven Garden Dining Chairs",
+            "price": 260.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb44ccb7ae649001fc1c8bb.jpg"
+          },
+          {
+            "id": 18699,
+            "productTypeId": 40,
+            "productTypeName": "Floor lamp",
+            "brand": "French Connection",
+            "name": "Wooden Slats Floor Lamp",
+            "price": 200.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf57fa351c7a001ed9e5de.jpg"
+          },
+          {
+            "id": 18701,
+            "productTypeId": 0,
+            "brand": "H&M Home",
+            "name": "Washed Linen Duvet Cover Set",
+            "price": 69.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb44ec37ae649001fc1d339.jpg"
+          },
+          {
+            "id": 18702,
+            "productTypeId": 0,
+            "brand": "Garden Trading",
+            "name": "Set of 2 Ceramic Pots",
+            "price": 8.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb44f697ae649001fc1d5d7.jpg"
+          },
+          {
+            "id": 18703,
+            "productTypeId": 88,
+            "productTypeName": "Handles",
+            "brand": "Garden Trading",
+            "name": "Ravello Pot with Handles",
+            "price": 20.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb44fd4b002eb001eacb6c6.jpg"
+          },
+          {
+            "id": 18704,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "brand": "Garden Trading",
+            "name": "Artichoke Pot",
+            "price": 15.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb450587ae649001fc1ddb3.jpg"
+          },
+          {
+            "id": 18705,
+            "productTypeId": 0,
+            "brand": "Garden Trading",
+            "name": "Withington Pot",
+            "price": 12.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb450e67ae649001fc1dfd5.jpg"
+          },
+          {
+            "id": 18706,
+            "productTypeId": 0,
+            "brand": "Garden Trading",
+            "name": "Ravello Pot",
+            "price": 5.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb45b16b002eb001eacfe57.jpg"
+          },
+          {
+            "id": 18707,
+            "productTypeId": 46,
+            "productTypeName": "Jug",
+            "brand": "Garden Trading",
+            "name": "Ravello Flower Jug",
+            "price": 25.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb45b8f7ae649001fc22f5d.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5859,
+        "articleName": "Page 38",
+        "pageNumber": 38,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852189845bf4001c5699f6.png",
+        "products": [
+          {
+            "id": 18708,
+            "productTypeId": 0,
+            "brand": "Cox & Cox",
+            "name": "Ocean Abstract Canvas",
+            "price": 195.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb45d327ae649001fc23e0d.png"
+          },
+          {
+            "id": 18709,
+            "productTypeId": 10,
+            "productTypeName": "Side table",
+            "brand": "Marks & Spencer",
+            "name": "Round Metal and Glass Side Table",
+            "price": 79.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb473a5b002eb001eadb6ab.png"
+          },
+          {
+            "id": 18710,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Marks & Spencer",
+            "name": "Ikat Printed Check Bedding",
+            "price": 39.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb474b47ae649001fc2da5a.jpg"
+          },
+          {
+            "id": 18711,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Marks & Spencer",
+            "name": "Pom Pom Bedding",
+            "price": 39.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb475f37ae649001fc2e2ff.jpg"
+          },
+          {
+            "id": 18712,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Marks & Spencer",
+            "name": "Plait Rug",
+            "price": 219.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb476a4b002eb001eadd05d.jpg"
+          },
+          {
+            "id": 18713,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "A by Amara",
+            "name": "Knitted Jute Striped Basket",
+            "price": 40.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb477837ae649001fc2f1d4.jpg"
+          },
+          {
+            "id": 18714,
+            "productTypeId": 0,
+            "brand": "Made.com",
+            "name": "Priya Cocoon Bean Bag",
+            "price": 149.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4788d7ae649001fc2fc4e.png"
+          },
+          {
+            "id": 18715,
+            "productTypeId": 27,
+            "productTypeName": "Throw",
+            "brand": "A by Amara",
+            "name": "Chunky Knitted Throw",
+            "price": 85.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb479097ae649001fc30202.jpg"
+          },
+          {
+            "id": 18716,
+            "productTypeId": 0,
+            "brand": "Modern Country Style Interiors",
+            "name": "Large Grey Ceramic Ginger Jar with Lid",
+            "price": 65.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf5935351c7a001ed9eff7.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5893,
+        "articleName": "Page 43",
+        "pageNumber": 43,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569ea5.png",
+        "products": [
+          {
+            "id": 19278,
+            "productTypeId": 40,
+            "productTypeName": "Floor lamp",
+            "brand": "Anglepoise",
+            "name": "Original 1227 Giant Outdoor Floor Lamp  - In Slate Grey",
+            "price": 3100.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf0a0f351c7a001ed73ed4.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5889,
+        "articleName": "Page 45",
+        "pageNumber": 45,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569d20.png",
+        "products": [
+          {
+            "id": 19279,
+            "productTypeId": 0,
+            "brand": "Abigail Ahern",
+            "name": "Madison Grey Emulsion",
+            "price": 42.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf0b09351c7a001ed74697.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5851,
+        "articleName": "Page 46",
+        "pageNumber": 46,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699ee.png",
+        "products": [
+          {
+            "id": 19280,
+            "productTypeId": 0,
+            "brand": "Industville",
+            "name": "Brooklyn Cone Pendant - 7 Inch - Pewter",
+            "price": 69.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf0de0ce39cf001ed016e2.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5882,
+        "articleName": "Page 47",
+        "pageNumber": 47,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569b98.png",
+        "products": [
+          {
+            "id": 19281,
+            "productTypeId": 0,
+            "name": "Vintage Oak Farmhouse Table",
+            "price": 1800.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf1315ce39cf001ed03ed7.png"
+          },
+          {
+            "id": 19282,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "Rockett St George",
+            "name": "Industrial Leather Dining Chair - Brown with Black Legs",
+            "price": 95.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf13fc351c7a001ed77ff9.jpg"
+          },
+          {
+            "id": 19283,
+            "productTypeId": 0,
+            "brand": "Made in Design",
+            "name": "Smithfield Pendant - Black",
+            "price": 655.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccb161fdd5763001e1eccd2.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5881,
+        "articleName": "Page 48",
+        "pageNumber": 48,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569b97.png",
+        "products": [
+          {
+            "id": 19284,
+            "productTypeId": 33,
+            "productTypeName": "Bath",
+            "brand": "&",
+            "name": "Solus Freestanding Bath",
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf167ece39cf001ed05dbf.png"
+          },
+          {
+            "id": 19285,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "John Lewis & Partners",
+            "name": "west elm Andes Deco Upholstered Bed Frame, Double, Grey",
+            "price": 999.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf176f351c7a001ed79c0c.jpg"
+          },
+          {
+            "id": 19286,
+            "productTypeId": 73,
+            "productTypeName": "Bin",
+            "brand": "The Farthing",
+            "name": "Industrial Black Metal Side Cabinet",
+            "price": 110.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf189d351c7a001ed7a5ba.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5854,
+        "articleName": "Page 49",
+        "pageNumber": 49,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699f1.png",
+        "products": [
+          {
+            "id": 19287,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "brand": "King & McGaw",
+            "name": "Bullitt Art Print",
+            "price": 65.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf1acbce39cf001ed08016.jpg"
+          },
+          {
+            "id": 19288,
+            "productTypeId": 0,
+            "brand": "Farrow & Ball",
+            "name": "Railings Estate Eggshell",
+            "price": 62.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf1bb0351c7a001ed7bb30.png"
+          },
+          {
+            "id": 19289,
+            "productTypeId": 69,
+            "productTypeName": "Shelf",
+            "brand": "Rockett St George",
+            "name": "Dark Brown Mirror with Deep Shelf",
+            "price": 120.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbfa4c5351c7a001edc2fa0.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5818,
+        "articleName": "Page 51",
+        "pageNumber": 51,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852184845bf4001c5699cd.png",
+        "products": [
+          {
+            "id": 18717,
+            "productTypeId": 70,
+            "productTypeName": "Mirror",
+            "brand": "Audenza",
+            "name": "Gold Sunburst Mirror",
+            "price": 135.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb47a657ae649001fc30d9e.jpg"
+          },
+          {
+            "id": 18718,
+            "productTypeId": 39,
+            "productTypeName": "Table lamp",
+            "brand": "House Doctor",
+            "name": "Note Table Lamp",
+            "price": 215.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb47b8fb002eb001eadfad0.jpg"
+          },
+          {
+            "id": 18719,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Sofa.com",
+            "name": "Iggy 2.5 Seat Sofa in Neptune Smart Velvet",
+            "price": 1940.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf5ad1351c7a001ed9fb6a.jpg"
+          },
+          {
+            "id": 18720,
+            "productTypeId": 0,
+            "name": "1970 Cushion",
+            "price": 180.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb47d6eb002eb001eae084f.jpg"
+          },
+          {
+            "id": 18721,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "John Lewis & Partners",
+            "name": "Atlas Berber Rug",
+            "price": 250.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb47e607ae649001fc32b0d.jpg"
+          },
+          {
+            "id": 18722,
+            "productTypeId": 10,
+            "productTypeName": "Side table",
+            "brand": "Out There  Interiors",
+            "name": "Round Glossy Gold Side Table",
+            "price": 599.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb47f29b002eb001eae16f7.png"
+          },
+          {
+            "id": 18723,
+            "productTypeId": 39,
+            "productTypeName": "Table lamp",
+            "brand": "Made.com",
+            "name": "Temple Table Lamp",
+            "price": 99.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4803e7ae649001fc33b1d.jpg"
+          },
+          {
+            "id": 18724,
+            "productTypeId": 70,
+            "productTypeName": "Mirror",
+            "brand": "The Farthing",
+            "name": "Vintage Starburst Round Wall Mirror",
+            "price": 47.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb48156b002eb001eae2137.png"
+          },
+          {
+            "id": 18725,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Made.com",
+            "name": "Sofia 2 Seater Sofabed",
+            "price": 1099.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb48279b002eb001eae2600.png"
+          },
+          {
+            "id": 18726,
+            "productTypeId": 0,
+            "name": "Personalised Year Cushion",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb48337b002eb001eae2984.jpg"
+          },
+          {
+            "id": 18727,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Very",
+            "name": "Calendre Fringed Rug",
+            "price": 99.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb484327ae649001fc35059.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5865,
+        "articleName": "Page 53",
+        "pageNumber": 53,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852189845bf4001c5699fc.png",
+        "products": [
+          {
+            "id": 18744,
+            "productTypeId": 0,
+            "brand": "Graham & Green",
+            "name": "Oslo Clay Rattan Wing Chair",
+            "price": 339.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4c9527ae649001fc588cf.jpg"
+          },
+          {
+            "id": 18745,
+            "productTypeId": 27,
+            "productTypeName": "Throw",
+            "brand": "Also Home  ",
+            "name": "Izu Stripe Knitted Throw",
+            "price": 125.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4c9e6b002eb001eb09783.jpg"
+          },
+          {
+            "id": 18746,
+            "productTypeId": 0,
+            "brand": "Linen Me",
+            "name": "Off White Rustic Linen Cushion",
+            "price": 15.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4cad37ae649001fc59882.jpg"
+          },
+          {
+            "id": 18748,
+            "productTypeId": 10,
+            "productTypeName": "Side table",
+            "brand": "West Elm",
+            "name": "Cosmo Side Table - Dusty Mint",
+            "price": 129.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4cb62b002eb001eb0a69d.jpg"
+          },
+          {
+            "id": 18749,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "The Contemporary Home",
+            "name": "Etched Chevron Glass Vase",
+            "price": 12.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4cc507ae649001fc59ee7.jpg"
+          },
+          {
+            "id": 18750,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Design Vintage",
+            "name": "White Circles Vase",
+            "price": 8.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4ccd8b002eb001eb0b21a.png"
+          },
+          {
+            "id": 18752,
+            "productTypeId": 48,
+            "productTypeName": "Mug",
+            "brand": "Design Vintage",
+            "name": "White Porcelain Mug",
+            "price": 8.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4cd527ae649001fc5a7ae.png"
+          },
+          {
+            "id": 18753,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "name": "Teal Chenille Rug",
+            "price": 65.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb4ceb57ae649001fc5b5a8.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5874,
+        "articleName": "Page 54",
+        "pageNumber": 54,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c569b90.png",
+        "products": [
+          {
+            "id": 18798,
+            "productTypeId": 0,
+            "brand": "Dunelm",
+            "name": "Honesty Boxed Canvas",
+            "price": 30.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5767cb002eb001eb64fca.jpg"
+          },
+          {
+            "id": 18799,
+            "productTypeId": 14,
+            "productTypeName": "Desk",
+            "brand": "Anglepoise",
+            "name": "Type 75 Desk Lamp - Margaret Howell Edition",
+            "price": 160.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb578607ae649001fcb41c3.jpg"
+          },
+          {
+            "id": 18800,
+            "productTypeId": 0,
+            "brand": "Bloomingville",
+            "name": "Mint/Grey Storage Boxes",
+            "price": 85.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb57ac3b002eb001eb67053.jpg"
+          },
+          {
+            "id": 18801,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Rosenthal",
+            "name": "Tutenvasen - Mint Vase",
+            "price": 47.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb57ca8b002eb001eb67aaa.jpg"
+          },
+          {
+            "id": 18802,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Cox & Cox",
+            "name": "Two Geometric Vases",
+            "price": 32.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb57d457ae649001fcb63b1.png"
+          },
+          {
+            "id": 18803,
+            "productTypeId": 65,
+            "productTypeName": "Planter",
+            "name": "Face Planter Small Yellow",
+            "price": 20.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb57ea57ae649001fcb6d2f.jpg"
+          },
+          {
+            "id": 18804,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "Bloomingville",
+            "name": "Woven Round Natural Rug",
+            "price": 89.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb57f907ae649001fcb755b.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5819,
+        "articleName": "Page 55",
+        "pageNumber": 55,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852184845bf4001c5699ce.png",
+        "products": [
+          {
+            "id": 18805,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Bjursta Extendable Table",
+            "price": 150.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb580a97ae649001fcb7e03.png"
+          },
+          {
+            "id": 18806,
+            "productTypeId": 32,
+            "productTypeName": "Paint",
+            "brand": "Fired Earth",
+            "name": "Marram Eggshell Paint",
+            "price": 46.080000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb58677b002eb001eb6cf97.jpg"
+          },
+          {
+            "id": 18807,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "Habitat",
+            "name": "Jerry Dining Chairs",
+            "price": 170.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb58710b002eb001eb6d4f0.png"
+          },
+          {
+            "id": 18808,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "name": "Teal Chenille Rug",
+            "price": 65.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5881d7ae649001fcbbb8d.jpg"
+          },
+          {
+            "id": 18809,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Kähler",
+            "name": "Hammershoi Ridged Vase - Large - Mint",
+            "price": 65.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb58939b002eb001eb6eb3a.jpg"
+          },
+          {
+            "id": 18810,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "brand": "Graham & Green",
+            "name": "Off White Organic Serving Bowl",
+            "price": 50.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb58a437ae649001fcbd02a.jpg"
+          },
+          {
+            "id": 18811,
+            "productTypeId": 62,
+            "productTypeName": "Tray",
+            "name": "Round Grey Concrete Tray",
+            "price": 32.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb58b967ae649001fcbe92c.jpg"
+          },
+          {
+            "id": 18812,
+            "productTypeId": 57,
+            "productTypeName": "Candle",
+            "brand": "A New Tribe",
+            "name": "Mint Geometric Candle Holder",
+            "price": 25.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb58c59b002eb001eb72a28.jpg"
+          },
+          {
+            "id": 18813,
+            "productTypeId": 0,
+            "brand": "Linen Me",
+            "name": "Mint Linen Napkin",
+            "price": 5.490000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb58e2a7ae649001fcc20a1.jpg"
+          },
+          {
+            "id": 18814,
+            "productTypeId": 0,
+            "brand": "Nisi",
+            "name": "Teal Confetti Napkin",
+            "price": 11.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb58f137ae649001fcc2970.jpg"
+          },
+          {
+            "id": 18815,
+            "productTypeId": 0,
+            "brand": "Nisi",
+            "name": "French Linen Napkin",
+            "price": 8.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb59141b002eb001eb76823.jpg"
+          },
+          {
+            "id": 18816,
+            "productTypeId": 0,
+            "name": "2 Piece Coffee Pour Over Set",
+            "price": 31.150000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb596af7ae649001fcc6e7d.jpg"
+          },
+          {
+            "id": 18817,
+            "productTypeId": 49,
+            "productTypeName": "Cup",
+            "name": "Oval Filter 3 Cup Teapot Satin Blue",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb598027ae649001fcc78d1.jpg"
+          },
+          {
+            "id": 18818,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "name": "ReSpiin Small Shallow Basket",
+            "price": 5.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb59944b002eb001eb7a448.jpg"
+          },
+          {
+            "id": 18819,
+            "productTypeId": 0,
+            "name": "Lightweight Oxford Stripe Dove Grey Cushion",
+            "price": 30.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb59a257ae649001fcc8b61.jpg"
+          },
+          {
+            "id": 18820,
+            "productTypeId": 0,
+            "brand": "Ian Mankin",
+            "name": "Perth Small Cushion - Light Grey",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb59aceb002eb001eb7b359.png"
+          },
+          {
+            "id": 18821,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Cox & Cox",
+            "name": "Two Geometric Vases",
+            "price": 32.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb59b3f7ae649001fcc9b79.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5843,
+        "articleName": "Page 56",
+        "pageNumber": 56,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699e6.png",
+        "products": [
+          {
+            "id": 18822,
+            "productTypeId": 0,
+            "brand": "Graham & Green",
+            "name": "Diamond Concrete Pot",
+            "price": 8.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5a1c77ae649001fccd4cd.jpg"
+          },
+          {
+            "id": 18823,
+            "productTypeId": 62,
+            "productTypeName": "Tray",
+            "name": "Round Grey Concrete Tray",
+            "price": 32.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5a2bbb002eb001eb7f84e.jpg"
+          },
+          {
+            "id": 18824,
+            "productTypeId": 0,
+            "brand": "Nisi",
+            "name": "French Linen Napkin",
+            "price": 8.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5a3127ae649001fccde3c.jpg"
+          },
+          {
+            "id": 18825,
+            "productTypeId": 0,
+            "brand": "Nisi",
+            "name": "Teal Confetti Napkin",
+            "price": 11.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5a35f7ae649001fcce0b7.jpg"
+          },
+          {
+            "id": 18826,
+            "productTypeId": 57,
+            "productTypeName": "Candle",
+            "brand": "A New Tribe",
+            "name": "Mint Geometric Candle Holder",
+            "price": 25.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5a3dd7ae649001fcce483.jpg"
+          },
+          {
+            "id": 18827,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "name": "Blue Bud Vase",
+            "price": 18.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5a48cb002eb001eb808d6.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5839,
+        "articleName": "Page 57",
+        "pageNumber": 57,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852186845bf4001c5699e2.png",
+        "products": [
+          {
+            "id": 18828,
+            "productTypeId": 0,
+            "brand": "Crown",
+            "name": "Botanical Extract",
+            "price": 18.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5a661b002eb001eb822d9.jpg"
+          },
+          {
+            "id": 18829,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Next Home",
+            "name": "Mini Geo Rug",
+            "price": 55.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5a743b002eb001eb82775.jpg"
+          },
+          {
+            "id": 18830,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Very",
+            "name": "Ideal Home Harmony Bed",
+            "price": 449.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5acfab002eb001eb84c1a.jpg"
+          },
+          {
+            "id": 18835,
+            "productTypeId": 9,
+            "productTypeName": "Bedside table",
+            "brand": "Made.com",
+            "name": "Penn Bedside Table",
+            "price": 179.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5b03f7ae649001fcd5621.jpg"
+          },
+          {
+            "id": 18836,
+            "productTypeId": 82,
+            "productTypeName": "Plant",
+            "brand": "Made by Hand",
+            "name": "Plants and Flowers by Ruth Allen",
+            "price": 40.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5b0c17ae649001fcd5899.jpg"
+          },
+          {
+            "id": 18837,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Olliella",
+            "name": "Belly Basket - White",
+            "price": 11.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5b1e3b002eb001eb86d5f.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5869,
+        "articleName": "Page 61",
+        "pageNumber": 61,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c569b8b.png",
+        "products": [
+          {
+            "id": 19290,
+            "productTypeId": 0,
+            "brand": "Sofa Workshop",
+            "name": "Dillon Corner Group - Casual Cloud",
+            "price": 1732.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf1d45ce39cf001ed09350.jpg"
+          },
+          {
+            "id": 19384,
+            "productTypeId": 0,
+            "brand": "Lola Donoghue",
+            "name": "Her Ladyship Print on Paper",
+            "price": 81.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5a6f9dd5763001eedb419.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5892,
+        "articleName": "Page 63",
+        "pageNumber": 63,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569d23.png",
+        "products": [
+          {
+            "id": 19291,
+            "productTypeId": 0,
+            "brand": "Farrow & Ball",
+            "name": "Pavilion Gray Estate Emulsion",
+            "price": 46.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf1e46351c7a001ed7d6da.png"
+          },
+          {
+            "id": 19435,
+            "productTypeId": 0,
+            "brand": "Baby Grey",
+            "name": "Nelli Rocker",
+            "price": 499.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccb1c7192bf11001e0b3232.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5888,
+        "articleName": "Page 64",
+        "pageNumber": 64,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569d1f.png",
+        "products": [
+          {
+            "id": 19385,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "John Lewis & Partners",
+            "name": "Milo Barstool, Smoke",
+            "price": 79.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5a92692bf11001edab58a.jpg"
+          },
+          {
+            "id": 19386,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Rockett St George",
+            "name": "Miniature Bell Copper & Matte White Ceiling Light",
+            "price": 120.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5aa2add5763001eedc674.jpg"
+          },
+          {
+            "id": 19387,
+            "productTypeId": 0,
+            "brand": "Olif",
+            "name": "Leo Copper Kitchen Mixer Tap",
+            "price": 242.760000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5ab79dd5763001eedcce3.jpg"
+          },
+          {
+            "id": 19388,
+            "productTypeId": 0,
+            "brand": "Ecora",
+            "name": "oak hampstead white",
+            "price": 120.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5acdcdd5763001eedd557.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5850,
+        "articleName": "Page 66",
+        "pageNumber": 66,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699ed.png",
+        "products": [
+          {
+            "id": 19292,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Made.com",
+            "name": "Scott 4 Seater Right Hand Facing Chaise End Corner Sofa, Grass Cotton Velvet",
+            "price": 1799.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2e207dd5763001e68905e.jpg"
+          },
+          {
+            "id": 19293,
+            "productTypeId": 0,
+            "brand": "Industville",
+            "name": "Brooklyn Cone Pendant - 7 Inch",
+            "price": 69.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf2185351c7a001ed7fcf8.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5871,
+        "articleName": "Page 67",
+        "pageNumber": 67,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c569b8d.png",
+        "products": [
+          {
+            "id": 19437,
+            "productTypeId": 0,
+            "brand": "Rebel Walls",
+            "name": "Factory Window - R14381",
+            "price": 33.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2e45b92bf11001e5438ad.jpg"
+          },
+          {
+            "id": 19438,
+            "productTypeId": 82,
+            "productTypeName": "Plant",
+            "brand": "Next Home",
+            "name": "Faux Bamboo Plant",
+            "price": 100.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2e5f3dd5763001e68b025.jpg"
+          },
+          {
+            "id": 19439,
+            "productTypeId": 0,
+            "brand": "Cushoo",
+            "name": "Eden oblong cushion - Mustard",
+            "price": 12.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2e7dc92bf11001e5456a2.jpg"
+          },
+          {
+            "id": 19440,
+            "productTypeId": 0,
+            "brand": "John Lewis & Partners",
+            "name": "Wooden Train Set",
+            "price": 30.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2ea2add5763001e68db7a.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5896,
+        "articleName": "Page 68",
+        "pageNumber": 68,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569ea8.png",
+        "products": [
+          {
+            "id": 19389,
+            "productTypeId": 0,
+            "brand": "Maisons du Monde",
+            "name": "Sailor Mango wood board 160cm headboard",
+            "price": 324.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5ae7bdd5763001eede406.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5838,
+        "articleName": "Page 69",
+        "pageNumber": 69,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852186845bf4001c5699e1.png",
+        "products": [
+          {
+            "id": 19390,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "Newroom Design",
+            "name": "Flower Wallpaper Floral green flowers leaves floral non-woven modern",
+            "price": 43.650000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccb1b1292bf11001e0b27c5.jpg"
+          },
+          {
+            "id": 19391,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Sebra",
+            "name": "Juno Cot Bed in Grey",
+            "price": 699.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5b35fdd5763001eee107a.jpg"
+          },
+          {
+            "id": 19392,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Smallable",
+            "name": "Bed Canopy - Mustard Yellow Gold",
+            "price": 94.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5b4a392bf11001edb0529.jpg"
+          },
+          {
+            "id": 19393,
+            "productTypeId": 0,
+            "brand": "Baby Grey",
+            "name": "Nelli Rocker -Leatherette finish",
+            "price": 625.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5b6a3dd5763001eee25c9.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5845,
+        "articleName": "Page 70",
+        "pageNumber": 70,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699e8.png",
+        "products": [
+          {
+            "id": 19394,
+            "productTypeId": 0,
+            "brand": "Little Greene",
+            "name": "Mid Azure Green Absolute Emulsion",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5b9c3dd5763001eee431b.png"
+          },
+          {
+            "id": 19395,
+            "productTypeId": 0,
+            "brand": "Graham & Green",
+            "name": "Blue Heron Print",
+            "price": 89.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5ba8392bf11001edb3864.jpg"
+          },
+          {
+            "id": 19436,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Love Your Home",
+            "name": "Trixabelle - Modern Upholstered Double Bed",
+            "price": 1744.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5ccb1e4b92bf11001e0b413c.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5870,
+        "articleName": "Page 71",
+        "pageNumber": 71,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c569b8c.png",
+        "products": [
+          {
+            "id": 19396,
+            "productTypeId": 32,
+            "productTypeName": "Paint",
+            "brand": "Little Greene",
+            "name": "Dorchester Pink Paint",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5bc0592bf11001edb42e3.png"
+          },
+          {
+            "id": 19397,
+            "productTypeId": 0,
+            "brand": "Cement Tile Shop",
+            "name": "Tulum iii tile - Pacific Navy",
+            "price": 53.400000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc5bd4f92bf11001edb524e.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5864,
+        "articleName": "Page 73",
+        "pageNumber": 73,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852189845bf4001c5699fb.png",
+        "products": [
+          {
+            "id": 18841,
+            "productTypeId": 42,
+            "productTypeName": "Ceiling light",
+            "brand": "Artisanti",
+            "name": "Orion Glass and Brass Pole Ceiling Light",
+            "price": 349.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5bca5b002eb001eb8d4cb.png"
+          },
+          {
+            "id": 18842,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "brand": "Abstract House",
+            "name": "Turquoise Waters - Wall Art Print",
+            "price": 7.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5bd6d7ae649001fcdcae9.jpg"
+          },
+          {
+            "id": 18843,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Made.com",
+            "name": "Milner Right Hand Storage/Sofa Bed",
+            "price": 1099.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5bea47ae649001fcdd2d7.jpg"
+          },
+          {
+            "id": 18844,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "MX Group",
+            "name": "Senio Circular Stool Pink",
+            "price": 99.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5bf4a7ae649001fcdd513.png"
+          },
+          {
+            "id": 18845,
+            "productTypeId": 40,
+            "productTypeName": "Floor lamp",
+            "brand": "The French Bedroom Company",
+            "name": "Copper Metal Floor Lamp",
+            "price": 190.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5c0147ae649001fcdd90b.png"
+          },
+          {
+            "id": 18846,
+            "productTypeId": 0,
+            "brand": "Audenza",
+            "name": "Faux Potted Trailing String of Pearls",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5c08e7ae649001fcddb3a.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5826,
+        "articleName": "Page 74",
+        "pageNumber": 74,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699d5.png",
+        "products": [
+          {
+            "id": 18847,
+            "productTypeId": 73,
+            "productTypeName": "Bin",
+            "brand": "Ikea",
+            "name": "Racka Curtain Pole Combination",
+            "price": 7.750000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5c242b002eb001eb8fe2b.png"
+          },
+          {
+            "id": 18851,
+            "productTypeId": 32,
+            "productTypeName": "Paint",
+            "brand": "Dulux",
+            "name": "Grey Steel 2 Paint - tester",
+            "price": 1.900000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5d0dc7ae649001fce6d20.png"
+          },
+          {
+            "id": 18852,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "name": "Small Hemp Storage Basket",
+            "price": 30.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5d2657ae649001fce74a0.jpg"
+          },
+          {
+            "id": 18853,
+            "productTypeId": 65,
+            "productTypeName": "Planter",
+            "brand": "Rachel Rogers",
+            "name": "Modern Macrame Hanging Planter",
+            "price": 15.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5d402b002eb001eb994f5.jpg"
+          },
+          {
+            "id": 18854,
+            "productTypeId": 0,
+            "brand": "Design Vintage",
+            "name": "Flora Large Hanging Succulent",
+            "price": 148.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5d4d47ae649001fce8369.png"
+          },
+          {
+            "id": 18855,
+            "productTypeId": 0,
+            "brand": "Design Vintage",
+            "name": "Faux String of Pearls",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5d6f57ae649001fce916a.jpg"
+          },
+          {
+            "id": 18856,
+            "productTypeId": 65,
+            "productTypeName": "Planter",
+            "brand": "Rachel Rogers",
+            "name": "Modern Crochet Hanging Planter",
+            "price": 26.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5d7f9b002eb001eb9ac26.jpg"
+          },
+          {
+            "id": 18857,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Zara Home",
+            "name": "Textured Laundry Basket",
+            "price": 29.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5d9acb002eb001eb9b63e.jpg"
+          },
+          {
+            "id": 18859,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Dypsis Lutescens",
+            "price": 20.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5da87b002eb001eb9baa4.png"
+          },
+          {
+            "id": 18860,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "Habitat",
+            "name": "Almira Medium Hand-Woven Natural Seagrass Platter",
+            "price": 12.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5df99b002eb001eb9e590.png"
+          },
+          {
+            "id": 18861,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "French Connection",
+            "name": "Large Cane Glass Vase",
+            "price": 55.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf627bce39cf001ed2e337.jpg"
+          },
+          {
+            "id": 18862,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Wyld Home",
+            "name": "Rustica Vase",
+            "price": 19.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5e0c17ae649001fceed17.jpg"
+          },
+          {
+            "id": 18863,
+            "productTypeId": 0,
+            "brand": "Nordic House",
+            "name": "Faux Palm Leaf",
+            "price": 12.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5e11bb002eb001eb9fe47.jpg"
+          },
+          {
+            "id": 18864,
+            "productTypeId": 82,
+            "productTypeName": "Plant",
+            "brand": "The Forest and Co",
+            "name": "Colour Fade Plant Pot",
+            "price": 14.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5e1b17ae649001fcef656.jpg"
+          },
+          {
+            "id": 18865,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "DFS",
+            "name": "Hoxton 3 Seater Sofa",
+            "price": 949.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5e3767ae649001fcf0c72.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5833,
+        "articleName": "Page 75",
+        "pageNumber": 75,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852186845bf4001c5699dc.png",
+        "products": [
+          {
+            "id": 18848,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Volfgang Chair",
+            "price": 70.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5cb407ae649001fce39d0.png"
+          },
+          {
+            "id": 18849,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Ludde Sheepskin",
+            "price": 30.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5cdf97ae649001fce529a.png"
+          },
+          {
+            "id": 18881,
+            "productTypeId": 62,
+            "productTypeName": "Tray",
+            "brand": "Graham & Green",
+            "name": "Ashford Tray Shelving Unit",
+            "price": 750.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb635247ae649001fd18fad.jpg"
+          },
+          {
+            "id": 18884,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "Habitat",
+            "name": "Lance Dining Table - Oak Veneer",
+            "price": 175.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb635f9b002eb001ebc86a3.png"
+          },
+          {
+            "id": 18903,
+            "productTypeId": 32,
+            "productTypeName": "Paint",
+            "name": "Metallic Spray Paint - Gold",
+            "price": 6.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6c9197ae649001fd63dd1.jpg"
+          },
+          {
+            "id": 18904,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Industriell Pendant Lamp",
+            "price": 25.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6ca557ae649001fd6448b.png"
+          },
+          {
+            "id": 18906,
+            "productTypeId": 0,
+            "brand": "Design Vintage",
+            "name": "Flora Large Hanging Succulent",
+            "price": 148.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6cb7fb002eb001ec13bab.png"
+          },
+          {
+            "id": 18907,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "name": "Terrarium Art Print by Beth Hoeckel",
+            "price": 27.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6cfdcb002eb001ec158e7.jpg"
+          },
+          {
+            "id": 18908,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Habitat",
+            "name": "Scratch Pink and Blue Ceramic Vase",
+            "price": 40.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf64c6351c7a001eda3dcd.jpg"
+          },
+          {
+            "id": 18909,
+            "productTypeId": 88,
+            "productTypeName": "Handles",
+            "brand": "Garden Trading",
+            "name": "Ravello Pot With Handles",
+            "price": 20.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6d3d57ae649001fd69c0d.jpg"
+          },
+          {
+            "id": 18910,
+            "productTypeId": 0,
+            "brand": "Habitat",
+            "name": "Griffin Orange Marbled Tea Light Holder",
+            "price": 10.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6d555b002eb001ec18998.png"
+          },
+          {
+            "id": 18911,
+            "productTypeId": 70,
+            "productTypeName": "Mirror",
+            "name": "Rattan Sunburst Wall Mirror",
+            "price": 55.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6d5e5b002eb001ec18b38.jpg"
+          },
+          {
+            "id": 18912,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "The Basket Room",
+            "name": "Hapo Green Patterned Bread Basket",
+            "price": 22.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6d7277ae649001fd6b96a.jpg"
+          },
+          {
+            "id": 18913,
+            "productTypeId": 0,
+            "brand": "Wyld Home",
+            "name": "Tricolour Cactus",
+            "price": 42.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6d7ac7ae649001fd6bb68.jpg"
+          },
+          {
+            "id": 18914,
+            "productTypeId": 0,
+            "brand": "Habitat",
+            "name": "Karma Green Metal Objet",
+            "price": 50.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf641d351c7a001eda38ca.jpg"
+          },
+          {
+            "id": 18915,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Debenhams",
+            "name": "Jute Baskets with Lids",
+            "price": 20.800000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6d958b002eb001ec1a1c1.jpg"
+          },
+          {
+            "id": 18916,
+            "productTypeId": 0,
+            "brand": "Habitat",
+            "name": "Maddox Grey 12-Piece Dinner Set",
+            "price": 110.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6da2e7ae649001fd6cb6c.png"
+          },
+          {
+            "id": 18917,
+            "productTypeId": 54,
+            "productTypeName": "Cutlery",
+            "brand": "Habitat",
+            "name": "Fiddle 16-Piece Cutlery Set",
+            "price": 75.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf6329351c7a001eda31b3.jpg"
+          },
+          {
+            "id": 18918,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Habitat",
+            "name": "Thora Oversized speckled bottle vase",
+            "price": 50.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf6511351c7a001eda402c.jpg"
+          },
+          {
+            "id": 18919,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "brand": "Habitat",
+            "name": "Inara Terracotta Serving Bowl",
+            "price": 10.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf63cc351c7a001eda354a.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5823,
+        "articleName": "Page 76",
+        "pageNumber": 76,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699d2.png",
+        "products": [
+          {
+            "id": 18850,
+            "productTypeId": 69,
+            "productTypeName": "Shelf",
+            "brand": "Ikea",
+            "name": "Ekby Alex Shelf with Drawers",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb5cf17b002eb001eb9772f.png"
+          },
+          {
+            "id": 18920,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Dulux",
+            "name": "Grey Steel 4 Matt Emulsion Paint - tester",
+            "price": 1.900000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6dcc5b002eb001ec1bdc8.png"
+          },
+          {
+            "id": 18921,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "name": "71cm Desk/Dining Table Hairpin Legs - Black",
+            "price": 64.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6de2eb002eb001ec1c9ad.jpg"
+          },
+          {
+            "id": 18922,
+            "productTypeId": 0,
+            "name": "MDF Lite",
+            "price": 26.290000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6df777ae649001fd6fe19.png"
+          },
+          {
+            "id": 18923,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Wilko",
+            "name": "Black Quick Dry Matt Blackboard Paint 500ml",
+            "price": 7.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6e008b002eb001ec1db2a.jpg"
+          },
+          {
+            "id": 18924,
+            "productTypeId": 82,
+            "productTypeName": "Plant",
+            "brand": "Design Vintage",
+            "name": "Faux String of Pearls Plant",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6e080b002eb001ec1df45.png"
+          },
+          {
+            "id": 18925,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "name": "Artificial Fern Branch",
+            "price": 2.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6e24cb002eb001ec1f6e2.jpg"
+          },
+          {
+            "id": 18926,
+            "productTypeId": 0,
+            "brand": "French Connection",
+            "name": "Poppy Field Runner",
+            "price": 95.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6e2e57ae649001fd73441.jpg"
+          },
+          {
+            "id": 18927,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Nkuku",
+            "name": "Mendhi Basket",
+            "price": 12.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6e3ddb002eb001ec20961.jpg"
+          },
+          {
+            "id": 18928,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Zara Home",
+            "name": "Round Basket with Handles",
+            "price": 49.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6e4b2b002eb001ec21016.jpg"
+          },
+          {
+            "id": 18929,
+            "productTypeId": 27,
+            "productTypeName": "Throw",
+            "name": "Diamond Coral Throw",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb6e543b002eb001ec217d7.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5825,
+        "articleName": "Page 77",
+        "pageNumber": 77,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699d4.png",
+        "products": [
+          {
+            "id": 18942,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Dulux",
+            "name": "Grey Steel 2 Matt Emulsion Paint - Sample",
+            "price": 1.900000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb71beab002eb001ec404e6.jpg"
+          },
+          {
+            "id": 18943,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "Ikea",
+            "name": "Bekvam Stool",
+            "price": 13.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb71d2eb002eb001ec40dbe.png"
+          },
+          {
+            "id": 18945,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Fonnes Door",
+            "price": 12.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb71dbb7ae649001fd9474e.png"
+          },
+          {
+            "id": 18947,
+            "productTypeId": 0,
+            "name": "MDF Lite",
+            "price": 26.290000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb71e4eb002eb001ec41acd.png"
+          },
+          {
+            "id": 18950,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Habitat",
+            "name": "Eleise Hand Knotted Rug",
+            "price": 500.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb71f6b7ae649001fd956a7.jpg"
+          },
+          {
+            "id": 18952,
+            "productTypeId": 94,
+            "productTypeName": "Pouffe",
+            "brand": "French Connection",
+            "name": "Freeda Pouffe",
+            "price": 120.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7202bb002eb001ec42ae5.jpg"
+          },
+          {
+            "id": 18953,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "The Forest and Co",
+            "name": "Large Hand Blown Bottle Vases",
+            "price": 38.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb721c1b002eb001ec43709.jpg"
+          },
+          {
+            "id": 18955,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "Habitat",
+            "name": "Almira Hand-Woven Natural Seagrass Platter",
+            "price": 12.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf669cce39cf001ed307a7.jpg"
+          },
+          {
+            "id": 18957,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "name": "TX-32FS500B 32\" Smart HDR LED TV",
+            "price": 249.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7237f7ae649001fd97d9a.jpg"
+          },
+          {
+            "id": 18958,
+            "productTypeId": 0,
+            "brand": "The Basket Room",
+            "name": "Chenesai Wall Platter",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb724a07ae649001fd98533.jpg"
+          },
+          {
+            "id": 18960,
+            "productTypeId": 27,
+            "productTypeName": "Throw",
+            "name": "Diamond Coral Throw",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb725307ae649001fd98a9b.jpg"
+          },
+          {
+            "id": 18962,
+            "productTypeId": 0,
+            "brand": "Debenhams",
+            "name": "Ceramic Noughts and Crosses Tea Light Holder",
+            "price": 6.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb725d67ae649001fd98f40.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5879,
+        "articleName": "Page 78",
+        "pageNumber": 78,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569b95.png",
+        "products": [
+          {
+            "id": 18963,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Dulux",
+            "name": "Grey Steel 2 Matt Emulsion Paint - Tester",
+            "price": 1.900000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7269db002eb001ec46043.jpg"
+          },
+          {
+            "id": 18965,
+            "productTypeId": 4,
+            "productTypeName": "Garden chair",
+            "brand": "Wayfair",
+            "name": "St Helens Garden Chair",
+            "price": 116.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb727d5b002eb001ec46a98.jpg"
+          },
+          {
+            "id": 18966,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "Wayfair",
+            "name": "Robert Dining Table",
+            "price": 150.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb728feb002eb001ec47283.jpg"
+          },
+          {
+            "id": 18967,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "Cult Furniture",
+            "name": "Trafik Dining Chair",
+            "price": 89.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb729b4b002eb001ec478cf.jpg"
+          },
+          {
+            "id": 18970,
+            "productTypeId": 64,
+            "productTypeName": "Basket",
+            "brand": "Ikea",
+            "name": "Snidad Basket",
+            "price": 25.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72bcc7ae649001fd9d607.png"
+          },
+          {
+            "id": 18971,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "name": "Plasticote Super Matt Spray Paint",
+            "price": 5.790000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72c497ae649001fd9e273.jpg"
+          },
+          {
+            "id": 18972,
+            "productTypeId": 77,
+            "productTypeName": "Fabric",
+            "name": "Northlight Fabric Covered Lamp Lead",
+            "price": 9.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72cf37ae649001fd9e601.png"
+          },
+          {
+            "id": 18974,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "Wyld Home",
+            "name": "Rustica Vase",
+            "price": 19.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72d577ae649001fd9e75c.jpg"
+          },
+          {
+            "id": 18976,
+            "productTypeId": 46,
+            "productTypeName": "Jug",
+            "brand": "Zara Home",
+            "name": "Jug with Contrasting Black Detail",
+            "price": 19.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72e1f7ae649001fd9eab3.jpg"
+          },
+          {
+            "id": 18977,
+            "productTypeId": 0,
+            "brand": "Zara Home",
+            "name": "Thick Black Rim Tumbler",
+            "price": 5.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72e83b002eb001ec4ab3d.jpg"
+          },
+          {
+            "id": 18979,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Kalinko",
+            "name": "Latha Rattan Table Mats",
+            "price": 64.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72f317ae649001fd9f79d.jpg"
+          },
+          {
+            "id": 18980,
+            "productTypeId": 52,
+            "productTypeName": "Plate",
+            "brand": "Zara Home",
+            "name": "Grid Print Earthenware Dinner Plate",
+            "price": 7.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb72fe3b002eb001ec4b3b8.jpg"
+          },
+          {
+            "id": 18981,
+            "productTypeId": 52,
+            "productTypeName": "Plate",
+            "brand": "Zara Home",
+            "name": "Grid Print Dessert Plate",
+            "price": 5.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7306e7ae649001fd9fe72.jpg"
+          },
+          {
+            "id": 18982,
+            "productTypeId": 0,
+            "brand": "Nordic House",
+            "name": "Natural Frayed Edge Linen Napkins",
+            "price": 19.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb730e4b002eb001ec4bb8a.jpg"
+          },
+          {
+            "id": 18983,
+            "productTypeId": 54,
+            "productTypeName": "Cutlery",
+            "brand": "Debenhams",
+            "name": "Radiance Cutlery - Pack of 16",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb73168b002eb001ec4bdc5.jpg"
+          },
+          {
+            "id": 18984,
+            "productTypeId": 32,
+            "productTypeName": "Paint",
+            "brand": "Rose & Grey",
+            "name": "Tall Handpainted Clay Plant Pot",
+            "price": 8.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb731f27ae649001fda0c36.png"
+          },
+          {
+            "id": 18985,
+            "productTypeId": 51,
+            "productTypeName": "Glass",
+            "brand": "Debenhams",
+            "name": "Orange Embossed Tumbler Glass",
+            "price": 4.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb73260b002eb001ec4c282.jpg"
+          },
+          {
+            "id": 18987,
+            "productTypeId": 0,
+            "brand": "Zara Home",
+            "name": "Industrial Frame with Chain",
+            "price": 19.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7334fb002eb001ec4ca81.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5822,
+        "articleName": "Page 79",
+        "pageNumber": 79,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852184845bf4001c5699d1.png",
+        "products": [
+          {
+            "id": 18988,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Dulux",
+            "name": "Grey Steel 4 Matt Emulsion Paint - Tester",
+            "price": 1.900000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb734efb002eb001ec4d6b7.png"
+          },
+          {
+            "id": 18989,
+            "productTypeId": 69,
+            "productTypeName": "Shelf",
+            "brand": "Ikea",
+            "name": "Havern Wall Shelf",
+            "price": 9.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf7f75351c7a001edaf780.jpg"
+          },
+          {
+            "id": 18990,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Osternas Leather Handle",
+            "price": 15.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb73662b002eb001ec4e7c7.png"
+          },
+          {
+            "id": 18991,
+            "productTypeId": 0,
+            "name": "6 Metre Parcel Wrap",
+            "price": 1.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb73735b002eb001ec4f0ab.png"
+          },
+          {
+            "id": 18992,
+            "productTypeId": 0,
+            "brand": "Garden Trading",
+            "name": "Kitceh Scissors",
+            "price": 17.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb737ea7ae649001fda4115.jpg"
+          },
+          {
+            "id": 18993,
+            "productTypeId": 0,
+            "brand": "Garden Trading",
+            "name": "Brompton Canister",
+            "price": 13.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb757407ae649001fdb586d.jpg"
+          },
+          {
+            "id": 18995,
+            "productTypeId": 52,
+            "productTypeName": "Plate",
+            "brand": "Habitat",
+            "name": "Sintra Green Side Plate",
+            "price": 10.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb757dd7ae649001fdb5bc3.png"
+          },
+          {
+            "id": 18996,
+            "productTypeId": 0,
+            "brand": "Nordic House",
+            "name": "Oak String Tidy with Scissors",
+            "price": 13.500000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7585bb002eb001ec61199.jpg"
+          },
+          {
+            "id": 18997,
+            "productTypeId": 0,
+            "brand": "Yonder Living",
+            "name": "Chop & Serve Board",
+            "price": 21.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb759b6b002eb001ec61b5c.jpg"
+          },
+          {
+            "id": 19000,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "brand": "Habitat",
+            "name": "Roman Small White Bowl",
+            "price": 6.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb75a597ae649001fdb7094.png"
+          },
+          {
+            "id": 19002,
+            "productTypeId": 0,
+            "brand": "Debenhams",
+            "name": "Ceramic Tea Light Holder",
+            "price": 6.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb75ad8b002eb001ec622d5.jpg"
+          },
+          {
+            "id": 19003,
+            "productTypeId": 0,
+            "brand": "French Connection",
+            "name": "Marble Chopping Board",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf8023ce39cf001ed3a35c.jpg"
+          },
+          {
+            "id": 19005,
+            "productTypeId": 0,
+            "brand": "Design Vintage",
+            "name": "Mango Chopping Board",
+            "price": 30.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb75c797ae649001fdb85fc.png"
+          },
+          {
+            "id": 19006,
+            "productTypeId": 80,
+            "productTypeName": "Dish",
+            "brand": "Design Vintage",
+            "name": "Black & White Waffle Dishcloth",
+            "price": 4.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb75d0bb002eb001ec639a6.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5894,
+        "articleName": "Page 80",
+        "pageNumber": 80,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569ea6.png",
+        "products": [
+          {
+            "id": 19307,
+            "productTypeId": 0,
+            "brand": "Ideal Home",
+            "name": "Products detailed on Page 80",
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd322bbdd5763001e6b4183.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5857,
+        "articleName": "Page 87",
+        "pageNumber": 87,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699f4.png",
+        "products": [
+          {
+            "id": 19303,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "The Cotswold Company",
+            "name": "Chester Grey Ladderback Dining Chairs",
+            "price": 250.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf82b2351c7a001edb0d04.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5862,
+        "articleName": "Page 88",
+        "pageNumber": 88,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852189845bf4001c5699f9.png",
+        "products": [
+          {
+            "id": 19304,
+            "productTypeId": 7,
+            "productTypeName": "Coffee table",
+            "brand": "Swoon",
+            "name": "Orla Coffee Table in Antiqued Mirror & Metallic",
+            "price": 399.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf847c351c7a001edb1e0b.jpg"
+          },
+          {
+            "id": 19305,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "West Elm",
+            "name": "Colca wool rug",
+            "price": 899.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf85ff351c7a001edb28b7.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5895,
+        "articleName": "Page 90",
+        "pageNumber": 90,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569ea7.png",
+        "products": [
+          {
+            "id": 19306,
+            "productTypeId": 67,
+            "productTypeName": "Towel",
+            "brand": "Made.com",
+            "name": "Robin Wood Towel Storage Ladder - Natural Wood",
+            "price": 75.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf8795351c7a001edb3067.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5849,
+        "articleName": "Page 91",
+        "pageNumber": 91,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699ec.png",
+        "products": [
+          {
+            "id": 19441,
+            "productTypeId": 0,
+            "brand": "The White Company",
+            "name": "Brittany Quilt - White/Grey",
+            "price": 210.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2ef2992bf11001e549ebb.jpg"
+          },
+          {
+            "id": 19442,
+            "productTypeId": 39,
+            "productTypeName": "Table lamp",
+            "brand": "Grand Illusions",
+            "name": "Ingrid Table Lamp - Antique Grey with Shade",
+            "price": 80.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2f078dd5763001e6923ec.jpg"
+          },
+          {
+            "id": 19443,
+            "productTypeId": 39,
+            "productTypeName": "Table lamp",
+            "brand": "Loaf",
+            "name": "Flagon table lamp - Pleated shade - Medium",
+            "price": 185.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2f358dd5763001e693cd1.jpg"
+          },
+          {
+            "id": 19444,
+            "productTypeId": 0,
+            "brand": "Neptune",
+            "name": "Corinium lamp - small",
+            "price": 103.800000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2f53892bf11001e54dc05.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5898,
+        "articleName": "Page 92",
+        "pageNumber": 92,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218d845bf4001c56a034.png",
+        "products": [
+          {
+            "id": 19445,
+            "productTypeId": 0,
+            "brand": "The Garden Furniture Centre  ",
+            "name": "Teak FSC Certified Parasol - 3m X 2m Rectangular",
+            "price": 249.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2f79692bf11001e54f290.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5875,
+        "articleName": "Page 94",
+        "pageNumber": 94,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c569b91.png",
+        "products": [
+          {
+            "id": 19039,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "name": "Outdoor Oven",
+            "price": 525.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7728db002eb001ec6fdce.png"
+          },
+          {
+            "id": 19040,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "name": "Forno Outdoor Oven",
+            "price": 999.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7731bb002eb001ec7015e.jpg"
+          },
+          {
+            "id": 19042,
+            "productTypeId": 0,
+            "brand": "Robert Dyas",
+            "name": "Flame Master 3-in-1 Charcoal Pizza BBQ",
+            "price": 99.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb77437b002eb001ec709b0.png"
+          },
+          {
+            "id": 19047,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "Wayfair",
+            "name": "Gardeco Pizzaro Dome Shaped Pizza Oven",
+            "price": 389.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7754a7ae649001fdc67e8.jpg"
+          },
+          {
+            "id": 19052,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "name": "Mila 60 Pizza Oven",
+            "price": 1440.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7768f7ae649001fdc71cb.jpg"
+          },
+          {
+            "id": 19058,
+            "productTypeId": 0,
+            "name": "Firepod",
+            "price": 399.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb7779ab002eb001ec72495.jpg"
+          },
+          {
+            "id": 19060,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "name": "Fornetto Wood fired Oven and Smoker",
+            "price": 1050.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb778c47ae649001fdc8880.jpg"
+          },
+          {
+            "id": 19063,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "name": "The Very Black Oven",
+            "price": 1200.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb779a47ae649001fdc8ef6.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5899,
+        "articleName": "Page 97",
+        "pageNumber": 97,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218d845bf4001c56a035.png",
+        "products": [
+          {
+            "id": 19065,
+            "productTypeId": 42,
+            "productTypeName": "Ceiling light",
+            "brand": "John Lewis & Partners",
+            "name": "Urchin Ceiling Light",
+            "price": 195.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb77a93b002eb001ec74035.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5901,
+        "articleName": "Page 98",
+        "pageNumber": 98,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218d845bf4001c56a037.png",
+        "products": [
+          {
+            "id": 19093,
+            "productTypeId": 0,
+            "brand": "Joules",
+            "name": "VQ Monty Winter Camelia DAB Radio and Bluetooth Speaker",
+            "price": 99.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb81681351c7a001ea1539e.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5880,
+        "articleName": "Page 99",
+        "pageNumber": 99,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569b96.png",
+        "products": [
+          {
+            "id": 19094,
+            "productTypeId": 0,
+            "brand": "Very",
+            "name": "Miller Wooden Bead Pendant by Ideal Home",
+            "price": 89.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb818aece39cf001e99d6a4.jpg"
+          },
+          {
+            "id": 19095,
+            "productTypeId": 56,
+            "productTypeName": "Book",
+            "brand": "Anthropologie",
+            "name": "Irving Bookcase",
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb81980351c7a001ea173ff.jpg"
+          },
+          {
+            "id": 19097,
+            "productTypeId": 0,
+            "brand": "Anthropologie",
+            "name": "Kennett Chair",
+            "price": 1098.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb81a0e351c7a001ea17697.jpg"
+          },
+          {
+            "id": 19098,
+            "productTypeId": 0,
+            "brand": "Joules",
+            "name": "Hollyhock Meadow Duvet Cover",
+            "price": 70.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb81b92351c7a001ea184f1.png"
+          },
+          {
+            "id": 19100,
+            "productTypeId": 0,
+            "name": "Milano Contour Ermine in Spearmint",
+            "price": 3663.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb81d9ace39cf001e99fd78.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5858,
+        "articleName": "Page 101",
+        "pageNumber": 101,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852188845bf4001c5699f5.png",
+        "products": [
+          {
+            "id": 19102,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Sofology",
+            "name": "Zahara 3 Seater Sofa Club Pink",
+            "price": 1199.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb8212b351c7a001ea1b016.png"
+          },
+          {
+            "id": 19103,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Anthropologie",
+            "name": "Justina Blakeney Ara Bed",
+            "price": 1898.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb821b9351c7a001ea1b394.jpg"
+          },
+          {
+            "id": 19105,
+            "productTypeId": 0,
+            "brand": "Anthropologie",
+            "name": "Embroidered Petunia Duvet Cover",
+            "price": 208.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb8224f351c7a001ea1b8bb.jpg"
+          },
+          {
+            "id": 19106,
+            "productTypeId": 31,
+            "productTypeName": "Wallpaper",
+            "brand": "Cole & Son",
+            "name": "Royal Fernery - Forest Green Wallpaper",
+            "price": 195.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb82337351c7a001ea1c019.jpg"
+          },
+          {
+            "id": 19109,
+            "productTypeId": 0,
+            "name": "Chinese Tree in Pink and Violet lamp",
+            "price": 199.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb82846ce39cf001e9a43b9.jpg"
+          },
+          {
+            "id": 19111,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Tillstallning",
+            "price": 5.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb82b12ce39cf001e9a52b5.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5824,
+        "articleName": "Page 102",
+        "pageNumber": 102,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699d3.png",
+        "products": [
+          {
+            "id": 19113,
+            "productTypeId": 7,
+            "productTypeName": "Coffee table",
+            "brand": "Marks & Spencer",
+            "name": "Albany Coffee Table",
+            "price": 279.200000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbfa6fbce39cf001ed4f535.jpg"
+          },
+          {
+            "id": 19114,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Marks & Spencer",
+            "name": "Abstract Leaf Carved Rug - Neutral",
+            "price": 175.200000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb82d3ace39cf001e9a65d2.png"
+          },
+          {
+            "id": 19116,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Sofa.com",
+            "name": "Hendrik 2 Seat Sofa",
+            "price": 1310.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb82f70351c7a001ea21d72.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5885,
+        "articleName": "Page 103",
+        "pageNumber": 103,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569d1c.png",
+        "products": [
+          {
+            "id": 19117,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "John Lewis & Partners",
+            "name": "Show-Wood Upholstered Bed Frame - Saga Mustard",
+            "price": 699.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb830abce39cf001e9a85f8.jpg"
+          },
+          {
+            "id": 19118,
+            "productTypeId": 94,
+            "productTypeName": "Pouffe",
+            "brand": "John Lewis & Partners",
+            "name": "Velvet Pouffe",
+            "price": 65.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb8314f351c7a001ea22f04.jpg"
+          },
+          {
+            "id": 19120,
+            "productTypeId": 0,
+            "brand": "Artisans of Devizes",
+            "name": "Koi Scallop Porcelain Navy Tiles",
+            "price": 10.800000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb83267ce39cf001e9a9a38.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5828,
+        "articleName": "Page 104",
+        "pageNumber": 104,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699d7.png",
+        "products": [
+          {
+            "id": 19123,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "Marks & Spencer",
+            "name": "Baltimore Bar and Stools Set",
+            "price": 279.300000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb83362ce39cf001e9aa01d.jpg"
+          },
+          {
+            "id": 19125,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "name": "Arjun Pine and Rattan Stool",
+            "price": 88.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb8340dce39cf001e9aa789.jpg"
+          },
+          {
+            "id": 19129,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "brand": "Neptune",
+            "name": "Carter Fitted Shelves, 600mm",
+            "price": 595.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb837a7ce39cf001e9ad43a.jpg"
+          },
+          {
+            "id": 19130,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "brand": "Neptune",
+            "name": "Carter Fitted Shelves - 920mm",
+            "price": 780.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb83823ce39cf001e9ad8a8.jpg"
+          },
+          {
+            "id": 19132,
+            "productTypeId": 56,
+            "productTypeName": "Book",
+            "brand": "Neptune",
+            "name": "Carter Bookcase - Small",
+            "price": 1085.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb838de351c7a001ea27758.jpg"
+          },
+          {
+            "id": 19133,
+            "productTypeId": 56,
+            "productTypeName": "Book",
+            "brand": "Neptune",
+            "name": "Carter Bookcase - Medium",
+            "price": 1350.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb83972ce39cf001e9ae54f.jpg"
+          },
+          {
+            "id": 19135,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "John Lewis & Partners",
+            "name": "Connubia by Calligaris New York Velvet Dining Chair",
+            "price": 263.200000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb83a5cce39cf001e9aec4d.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5836,
+        "articleName": "Page 105",
+        "pageNumber": 105,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852186845bf4001c5699df.png",
+        "products": [
+          {
+            "id": 19136,
+            "productTypeId": 46,
+            "productTypeName": "Jug",
+            "brand": "Marks & Spencer",
+            "name": "Block Stripe Ceramic Jug",
+            "price": 15.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf9540ce39cf001ed45360.jpg"
+          },
+          {
+            "id": 19138,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Sofology",
+            "name": "Barrington 2 seat sofa in Elda leather",
+            "price": 1149.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb83c96ce39cf001e9afd0a.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5878,
+        "articleName": "Page 106",
+        "pageNumber": 106,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569b94.png",
+        "products": [
+          {
+            "id": 19139,
+            "productTypeId": 5,
+            "productTypeName": "Sofa",
+            "brand": "Sofa.com",
+            "name": "Rupert 2.5 Seat Sofa in Mercury Smart Linen",
+            "price": 2000.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb83e5ece39cf001e9b0e9f.jpg"
+          },
+          {
+            "id": 19141,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Next Home",
+            "name": "Textured Triangles Rug",
+            "price": 30.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb842b1ce39cf001e9b2c4e.jpg"
+          },
+          {
+            "id": 19142,
+            "productTypeId": 14,
+            "productTypeName": "Desk",
+            "brand": "Swoon",
+            "name": "Fresco Desk",
+            "price": 329.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb8437e351c7a001ea2c820.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5847,
+        "articleName": "Page 107",
+        "pageNumber": 107,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699ea.png",
+        "products": [
+          {
+            "id": 19143,
+            "productTypeId": 12,
+            "productTypeName": "Sideboard",
+            "brand": "Neptune",
+            "name": "Suffolk Sideboard - 3ft",
+            "price": 840.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb844bace39cf001e9b3562.jpg"
+          },
+          {
+            "id": 19144,
+            "productTypeId": 31,
+            "productTypeName": "Wallpaper",
+            "brand": "Graham & Brown",
+            "name": "Bordado Dusk Wallpaper",
+            "price": 60.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb845a2351c7a001ea2d419.jpg"
+          },
+          {
+            "id": 19145,
+            "productTypeId": 25,
+            "productTypeName": "Mat",
+            "brand": "Graham & Brown",
+            "name": "Bordado Matt Emulsion Paint",
+            "price": 38.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb8463bce39cf001e9b3a67.jpg"
+          },
+          {
+            "id": 19146,
+            "productTypeId": 59,
+            "productTypeName": "Art",
+            "brand": "Ikea",
+            "name": "Eket Cabinet with 4 Compartments",
+            "price": 40.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb84747ce39cf001e9b44da.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5897,
+        "articleName": "Page 108",
+        "pageNumber": 108,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218d845bf4001c56a033.png",
+        "products": [
+          {
+            "id": 19340,
+            "productTypeId": 0,
+            "brand": "Ideal Home",
+            "name": "Subscription Offer",
+            "price": 29.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc17b8add5763001ec9e8ad.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5860,
+        "articleName": "Page 111",
+        "pageNumber": 111,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852189845bf4001c5699f7.png",
+        "products": [
+          {
+            "id": 19446,
+            "productTypeId": 17,
+            "productTypeName": "Bed",
+            "brand": "Made.com",
+            "name": "Kano Kingsize Platform Bed, Pine",
+            "price": 229.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2fa7bdd5763001e697dfe.jpg"
+          },
+          {
+            "id": 19447,
+            "productTypeId": 10,
+            "productTypeName": "Side table",
+            "brand": "Zara Home",
+            "name": "Round side table",
+            "price": 79.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2fbc4dd5763001e698ed3.jpg"
+          },
+          {
+            "id": 19448,
+            "productTypeId": 0,
+            "brand": "Farrow & Ball",
+            "name": "Cinder Rose estate eggshell - 246",
+            "price": 62.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cd2fd13dd5763001e699d7a.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5834,
+        "articleName": "Page 112",
+        "pageNumber": 112,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852186845bf4001c5699dd.png",
+        "products": [
+          {
+            "id": 19148,
+            "productTypeId": 0,
+            "brand": "Made.com",
+            "name": "Austin Wall Lamp",
+            "price": 29.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb84884ce39cf001e9b4ce2.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5848,
+        "articleName": "Page 113",
+        "pageNumber": 113,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699eb.png",
+        "products": [
+          {
+            "id": 19149,
+            "productTypeId": 36,
+            "productTypeName": "Toilet",
+            "name": "Old London Richmond Traditional Toilet",
+            "price": 154.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb84bc0ce39cf001e9b6687.jpg"
+          },
+          {
+            "id": 19150,
+            "productTypeId": 73,
+            "productTypeName": "Bin",
+            "name": "Old London - 800 Traditional 2-Door Basin & Cabinet",
+            "price": 419.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb84d45351c7a001ea30197.jpg"
+          },
+          {
+            "id": 19151,
+            "productTypeId": 34,
+            "productTypeName": "Shower",
+            "brand": "Bristan",
+            "name": "Bristan - 1901 Thermostatic Recessed Dual Control Shower Valve with Integral Diverter - Gold",
+            "price": 275.090000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb84fc8ce39cf001e9b87f1.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5827,
+        "articleName": "Page 115",
+        "pageNumber": 115,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852185845bf4001c5699d6.png",
+        "products": [
+          {
+            "id": 19152,
+            "productTypeId": 41,
+            "productTypeName": "Wall light",
+            "brand": "MX Group",
+            "name": "Orbit Wall Light",
+            "price": 49.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb85122ce39cf001e9b90b7.jpg"
+          },
+          {
+            "id": 19153,
+            "productTypeId": 0,
+            "brand": "Sweetpea & Willow",
+            "name": "Lene Bjerre Fabianne Cushion - Blush",
+            "price": 55.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb85208ce39cf001e9b97e5.jpg"
+          },
+          {
+            "id": 19154,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "brand": "The Farthing",
+            "name": "Tall Pink Patterned Vase",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb8528cce39cf001e9b9eed.png"
+          },
+          {
+            "id": 19155,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Oliver Bonas",
+            "name": "White Double Sheepskin Rug",
+            "price": 120.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb85379351c7a001ea33402.jpg"
+          },
+          {
+            "id": 19156,
+            "productTypeId": 27,
+            "productTypeName": "Throw",
+            "brand": "Laura Ashley",
+            "name": "Whitwell Grey Green Throw",
+            "price": 28.800000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb8546b351c7a001ea33bb5.png"
+          },
+          {
+            "id": 19157,
+            "productTypeId": 10,
+            "productTypeName": "Side table",
+            "brand": "Made.com",
+            "name": "Aula Side Table",
+            "price": 169.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb854fece39cf001e9bb768.jpg"
+          },
+          {
+            "id": 19158,
+            "productTypeId": 70,
+            "productTypeName": "Mirror",
+            "brand": "AYTM",
+            "name": "Angui Oval Mirror",
+            "price": 199.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb85627ce39cf001e9bc066.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5902,
+        "articleName": "Page 118",
+        "pageNumber": 118,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218d845bf4001c56a038.png",
+        "products": [
+          {
+            "id": 19159,
+            "productTypeId": 0,
+            "name": "Wire Handle",
+            "price": 17.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb857f1351c7a001ea35a3e.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5873,
+        "articleName": "Page 119",
+        "pageNumber": 119,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c569b8f.png",
+        "products": [
+          {
+            "id": 19160,
+            "productTypeId": 0,
+            "name": "Illusion Door Front",
+            "price": 49.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb85ace351c7a001ea3727f.jpg"
+          },
+          {
+            "id": 19161,
+            "productTypeId": 73,
+            "productTypeName": "Bin",
+            "brand": "Ikea",
+            "name": "Metod Kitchen Cabinets",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb85c62ce39cf001e9bf76b.png"
+          },
+          {
+            "id": 19162,
+            "productTypeId": 85,
+            "productTypeName": "Stool",
+            "brand": "Cult Furniture",
+            "name": "Hairpin Stool with Natural Wood Seat - Teal",
+            "price": 49.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb85d18ce39cf001e9bfe52.jpg"
+          },
+          {
+            "id": 19199,
+            "productTypeId": 0,
+            "name": "Grandezza Chair by Lena Larsson",
+            "price": 600.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9842fce39cf001ea56631.jpg"
+          },
+          {
+            "id": 19200,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Heals",
+            "name": "Mirina Rug",
+            "price": 313.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9850d351c7a001eacf06e.jpg"
+          },
+          {
+            "id": 19202,
+            "productTypeId": 0,
+            "brand": "Graham & Green",
+            "name": "Liljeberg Prints",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb987db351c7a001ead0d40.jpg"
+          },
+          {
+            "id": 19203,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "John Lewis & Partners",
+            "name": "Ercol Shalstone Extending Dining Table",
+            "price": 899.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb98903351c7a001ead1439.jpg"
+          },
+          {
+            "id": 19204,
+            "productTypeId": 2,
+            "productTypeName": "Dining chair",
+            "brand": "John Lewis & Partners",
+            "name": "Ercol Shalstone Dining Chair",
+            "price": 229.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb989bbce39cf001ea597e4.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5841,
+        "articleName": "Page 121",
+        "pageNumber": 121,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852187845bf4001c5699e4.png",
+        "products": [
+          {
+            "id": 19205,
+            "productTypeId": 0,
+            "name": "Big Fish in Infinity Blue",
+            "price": 114.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf99ba351c7a001edbd099.jpg"
+          },
+          {
+            "id": 19206,
+            "productTypeId": 0,
+            "name": "Walnut Ladbroke Door",
+            "price": 205.200000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb98d1cce39cf001ea5aea9.jpg"
+          },
+          {
+            "id": 19207,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Torhamn Door - Natural Ash",
+            "price": 67.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb98e31351c7a001ead33af.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5877,
+        "articleName": "Page 125",
+        "pageNumber": 125,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569b93.png",
+        "products": [
+          {
+            "id": 19208,
+            "productTypeId": 0,
+            "name": "Forte Bianco Natural Finish Tiles - Sample",
+            "price": 0.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb99455ce39cf001ea5d78c.jpg"
+          },
+          {
+            "id": 19209,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "Siemens",
+            "name": "iQ700 Single Oven with FullSteam",
+            "price": 1589.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb996cece39cf001ea5ebd3.jpg"
+          },
+          {
+            "id": 19210,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "brand": "Siemens",
+            "name": "iQ700 Single Oven with Microwave & PulseSteam",
+            "price": 1529.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb998dc351c7a001ead7040.jpg"
+          },
+          {
+            "id": 19211,
+            "productTypeId": 0,
+            "brand": "Quooker",
+            "name": "Flex Stainless Steel Boiling Water Tap",
+            "price": 1600.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb99ac7ce39cf001ea604d0.png"
+          },
+          {
+            "id": 19214,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "name": "Small Blue Vase",
+            "price": 17.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b05b351c7a001eae2ade.jpg"
+          },
+          {
+            "id": 19216,
+            "productTypeId": 46,
+            "productTypeName": "Jug",
+            "name": "Small Jade Jug",
+            "price": 24.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b13a351c7a001eae2df7.jpg"
+          },
+          {
+            "id": 19217,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "name": "Large Blue Bowl",
+            "price": 92.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b1b0351c7a001eae2fc9.jpg"
+          },
+          {
+            "id": 19219,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "name": "Small Jade Vase",
+            "price": 17.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b241351c7a001eae3897.jpg"
+          },
+          {
+            "id": 19220,
+            "productTypeId": 47,
+            "productTypeName": "Bowl",
+            "name": "Large Straw Bowl",
+            "price": 92.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b296ce39cf001ea6c7e8.jpg"
+          },
+          {
+            "id": 19221,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "name": "Medium Jade Vase",
+            "price": 24.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b2ee351c7a001eae3e71.jpg"
+          },
+          {
+            "id": 19222,
+            "productTypeId": 45,
+            "productTypeName": "Vase",
+            "name": "Large Blue Vase",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b3ea351c7a001eae4582.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5876,
+        "articleName": "Page 127",
+        "pageNumber": 127,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218a845bf4001c569b92.png",
+        "products": [
+          {
+            "id": 19224,
+            "productTypeId": 0,
+            "brand": "Walls & Floors",
+            "name": "Oyster Shell 60x30cm Stone Tiles - Sample",
+            "price": 3.320000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b63c351c7a001eae569c.jpg"
+          },
+          {
+            "id": 19225,
+            "productTypeId": 0,
+            "brand": "Quooker",
+            "name": "Flex Hot Water Tap",
+            "price": 1300.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9b759ce39cf001ea6efb9.png"
+          },
+          {
+            "id": 19226,
+            "productTypeId": 0,
+            "brand": "Loaf",
+            "name": "Natterbox Chairs - Set of 2",
+            "price": 270.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9ba2ace39cf001ea70219.jpg"
+          },
+          {
+            "id": 19227,
+            "productTypeId": 82,
+            "productTypeName": "Plant",
+            "brand": "Lene Bjerre",
+            "name": "Flora Dollar Plant",
+            "price": 55.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9bb50ce39cf001ea707c9.jpg"
+          },
+          {
+            "id": 19228,
+            "productTypeId": 6,
+            "productTypeName": "Dining table",
+            "brand": "Made.com",
+            "name": "Fjord Rectangle Dining Table Oak and Grey",
+            "price": 229.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9bccb351c7a001eae836d.png"
+          },
+          {
+            "id": 19229,
+            "productTypeId": 82,
+            "productTypeName": "Plant",
+            "brand": "Bloomingville",
+            "name": "Stoneware Green Plant Pot",
+            "price": 19.430000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9bdc2ce39cf001ea71657.png"
+          },
+          {
+            "id": 19230,
+            "productTypeId": 0,
+            "brand": "Original BTC",
+            "name": "Hatton 3 Pendant Black Braided Cable",
+            "price": 269.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf9b70351c7a001edbde77.jpg"
+          },
+          {
+            "id": 19231,
+            "productTypeId": 43,
+            "productTypeName": "Pendant light",
+            "brand": "Artisanti",
+            "name": "Prisma Glass Drop Pendant Light",
+            "price": 82.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9c018351c7a001eae9e4b.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5890,
+        "articleName": "Page 130",
+        "pageNumber": 130,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218c845bf4001c569d21.png",
+        "products": [
+          {
+            "id": 19232,
+            "productTypeId": 34,
+            "productTypeName": "Shower",
+            "name": "Merlyn Bespoke Shower Panel",
+            "price": 876.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9cef4351c7a001eaf1375.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5863,
+        "articleName": "Page 133",
+        "pageNumber": 133,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852189845bf4001c5699fa.png",
+        "products": [
+          {
+            "id": 19233,
+            "productTypeId": 67,
+            "productTypeName": "Towel",
+            "name": "Mariella Chrome Towel Rail",
+            "price": 288.820000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9d2bfce39cf001ea7d1c1.jpg"
+          },
+          {
+            "id": 19235,
+            "productTypeId": 0,
+            "brand": "Walls & Floors",
+            "name": "Uptown Brown 60x60 Tiles",
+            "price": 19.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9d4dece39cf001ea7ed59.png"
+          },
+          {
+            "id": 19236,
+            "productTypeId": 69,
+            "productTypeName": "Shelf",
+            "name": "Mode Orion With Countertop Shelf with Ellis Sink",
+            "price": 259.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9d5a9351c7a001eaf516c.jpg"
+          },
+          {
+            "id": 19237,
+            "productTypeId": 0,
+            "brand": "Tile Mountain",
+            "name": "Esenzia Fenice Patterned Wall Tile",
+            "price": 22.490000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9d6a9351c7a001eaf5f4f.jpg"
+          },
+          {
+            "id": 19238,
+            "productTypeId": 0,
+            "brand": "Kelly Hoppen",
+            "name": "Scent One Diffuser",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9d71cce39cf001ea80911.jpg"
+          },
+          {
+            "id": 19239,
+            "productTypeId": 33,
+            "productTypeName": "Bath",
+            "name": "Viado Bath",
+            "price": 1289.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9d78dce39cf001ea80dc7.jpg"
+          },
+          {
+            "id": 19240,
+            "productTypeId": 33,
+            "productTypeName": "Bath",
+            "brand": "B&Q",
+            "name": "Cooke & Lewis Duchess Acrylic Oval Freestanding Bath",
+            "price": 750.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cb9d856ce39cf001ea817df.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5900,
+        "articleName": "Page 141",
+        "pageNumber": 141,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218d845bf4001c56a036.png",
+        "products": [
+          {
+            "id": 19339,
+            "productTypeId": 0,
+            "brand": "Habitat",
+            "name": "Valerie Embroidered Cushion",
+            "price": 65.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cc17964dd5763001ec9d7dc.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5832,
+        "articleName": "Page 142",
+        "pageNumber": 142,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852186845bf4001c5699db.png",
+        "products": [
+          {
+            "id": 19241,
+            "productTypeId": 40,
+            "productTypeName": "Floor lamp",
+            "brand": "Ikea",
+            "name": "Solvinden Solar-Powered Floor Lamp",
+            "price": 35.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbf9e6b351c7a001edbf5f8.jpg"
+          },
+          {
+            "id": 19242,
+            "productTypeId": 43,
+            "productTypeName": "Pendant light",
+            "brand": "Ikea",
+            "name": "Solvinden Solar-Powered Pendant Light",
+            "price": 20.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbab846ce39cf001eae801c.png"
+          },
+          {
+            "id": 19243,
+            "productTypeId": 43,
+            "productTypeName": "Pendant light",
+            "brand": "Ikea",
+            "name": "Solvinden Solar-Powered Pendant Light",
+            "price": 6.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbab900351c7a001eb5c8dd.png"
+          },
+          {
+            "id": 19244,
+            "productTypeId": 0,
+            "brand": "Ikea",
+            "name": "Solvinden Solar-Powered Pendant Lamp",
+            "price": 8.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbab9cece39cf001eae8a7a.png"
+          },
+          {
+            "id": 19245,
+            "productTypeId": 43,
+            "productTypeName": "Pendant light",
+            "brand": "Ikea",
+            "name": "Solvinden Solar Powered Pendant Light",
+            "price": 8.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbababdce39cf001eae8f9a.png"
+          },
+          {
+            "id": 19246,
+            "productTypeId": 0,
+            "name": "Liquiproof Labs Premium Protector 50ml",
+            "price": 10.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbabcbb351c7a001eb5eb65.jpg"
+          },
+          {
+            "id": 19247,
+            "productTypeId": 78,
+            "productTypeName": "Bench",
+            "name": "Aruba Storage Bench",
+            "price": 324.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbabda6ce39cf001eaeae39.jpg"
+          },
+          {
+            "id": 19250,
+            "productTypeId": 78,
+            "productTypeName": "Bench",
+            "brand": "B&Q",
+            "name": "Plastic Garden Storage Bench",
+            "price": 89.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbabf38351c7a001eb5fe49.jpg"
+          },
+          {
+            "id": 19251,
+            "productTypeId": 0,
+            "name": "Dodow Sleep Aid Device",
+            "price": 49.900000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbabfe2ce39cf001eaec329.jpg"
+          },
+          {
+            "id": 19252,
+            "productTypeId": 0,
+            "brand": "Cox & Cox",
+            "name": "Round Rattan Rain Butt",
+            "price": 275.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbac07ace39cf001eaecb47.png"
+          }
+        ]
+      },
+      {
+        "articleId": 5820,
+        "articleName": "Page 143",
+        "pageNumber": 143,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e852184845bf4001c5699cf.png",
+        "products": [
+          {
+            "id": 19253,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Matalan",
+            "name": "Patio Geometric Indoor/Outdoor Rug",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbac14a351c7a001eb60e9d.jpg"
+          },
+          {
+            "id": 19254,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Soho Home",
+            "name": "Reith Outdoor Rug - Natural",
+            "price": 245.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbac201ce39cf001eaed2fd.jpg"
+          },
+          {
+            "id": 19255,
+            "productTypeId": 26,
+            "productTypeName": "Rug",
+            "brand": "Cuckooland",
+            "name": "Fab Hab Puebla Outdoor Rug",
+            "price": 49.950000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbac2d9ce39cf001eaedb59.jpg"
+          },
+          {
+            "id": 19256,
+            "productTypeId": 0,
+            "name": "3.5m Free Arm Parasol with LED Lighting and Wireless Speaker",
+            "price": 799.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbac3ca351c7a001eb62677.jpg"
+          },
+          {
+            "id": 19257,
+            "productTypeId": 0,
+            "name": "Roxil Patio Cream",
+            "price": 39.970000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbac495ce39cf001eaeeaa9.jpg"
+          },
+          {
+            "id": 19258,
+            "productTypeId": 0,
+            "name": "NEU-50 Light Tinted Neutral Film",
+            "price": 28.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbac617351c7a001eb637af.jpg"
+          },
+          {
+            "id": 19259,
+            "productTypeId": 18,
+            "productTypeName": "Oven",
+            "name": "4K Outdoor Oven",
+            "price": 1795.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbac7a4ce39cf001eaf0c75.png"
+          },
+          {
+            "id": 19260,
+            "productTypeId": 32,
+            "productTypeName": "Paint",
+            "name": "Ziggy Handpainted Plant Pot",
+            "price": 45.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbfa0af351c7a001edc05cb.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5883,
+        "articleName": "Page 145",
+        "pageNumber": 145,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569b99.png",
+        "products": [
+          {
+            "id": 19261,
+            "productTypeId": 24,
+            "productTypeName": "Washing machine",
+            "brand": "Siemens",
+            "name": "iQ500 Front Loading Washing Machine  WM14T790GB",
+            "price": 702.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbacad6351c7a001eb65fdc.jpg"
+          },
+          {
+            "id": 19262,
+            "productTypeId": 24,
+            "productTypeName": "Washing machine",
+            "brand": "Samsung",
+            "name": "Samsung QuickDrive WW90M645OPO/EU Freestanding Washing Machine - 9kg Load",
+            "price": 679.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbaccd8351c7a001eb672ee.jpg"
+          },
+          {
+            "id": 19263,
+            "productTypeId": 24,
+            "productTypeName": "Washing machine",
+            "brand": "Beko",
+            "name": "WR94PB44DW 9Kg Washing Machine",
+            "price": 299.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbacdcdce39cf001eaf4b43.jpg"
+          },
+          {
+            "id": 19264,
+            "productTypeId": 24,
+            "productTypeName": "Washing machine",
+            "brand": "Miele",
+            "name": "WCR860WPS Washing Machine",
+            "price": 1499.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbacf6f351c7a001eb68751.jpg"
+          },
+          {
+            "id": 19265,
+            "productTypeId": 24,
+            "productTypeName": "Washing machine",
+            "brand": "Hoover",
+            "name": "Washing Machine AXI AWMPD413LH7B-80",
+            "price": 469.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbad104351c7a001eb6928e.jpg"
+          }
+        ]
+      },
+      {
+        "articleId": 5884,
+        "articleName": "Page 147",
+        "pageNumber": 147,
+        "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5e85218b845bf4001c569d1b.png",
+        "products": [
+          {
+            "id": 19266,
+            "productTypeId": 0,
+            "name": "Oilpresso Oil Press",
+            "price": 299.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbad22ace39cf001eaf7340.png"
+          },
+          {
+            "id": 19267,
+            "productTypeId": 0,
+            "name": "Joule Sous Vide",
+            "price": 189.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbad304ce39cf001eaf7890.jpg"
+          },
+          {
+            "id": 19268,
+            "productTypeId": 0,
+            "brand": "Beko",
+            "name": "TBV8104BX Vacuum Blender - Stainless Steel",
+            "price": 199.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbad3a4ce39cf001eaf8201.jpg"
+          },
+          {
+            "id": 19269,
+            "productTypeId": 0,
+            "name": "Ninja Foodi Multi-Cooker",
+            "price": 179.990000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbad48e351c7a001eb6b41d.jpg"
+          },
+          {
+            "id": 19270,
+            "productTypeId": 0,
+            "brand": "Tefal",
+            "name": "Tefal GC722D40 Optigrill+ XL Grill",
+            "price": 139.000000,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/cdn.test.ownable.uk/images/100/5cbad559351c7a001eb6ba90.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "version": "1.69.511"
+}

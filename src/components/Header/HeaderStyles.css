@@ -1,0 +1,13 @@
+.main-header{
+    width: 100%;
+}
+.main-header nav{
+    height: 60px;
+    background-color: #ff2f5a;
+    color: #ffffff;
+}
+.main-header nav h1{
+    margin: 0px;
+    margin-left: 10px;
+    float: left;
+}

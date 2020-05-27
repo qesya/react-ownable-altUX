@@ -1,0 +1,10 @@
+.main-footer{
+    width: 100%;
+    height: 55px;
+    background-color: #282c34;
+}
+.main-footer h1{
+    color: #ffffff;
+    text-align: center;
+    margin: 0px;
+}
